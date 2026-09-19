@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Vector store data (large, regenerable from docs_raw/ -- not source)
+data/
+
+# Raw doctrine text/PDFs (large; also worth keeping out of a public repo
+# until we confirm licensing/access-tier handling is solid)
+docs_raw/*
+!docs_raw/.gitkeep
+
+# macOS
+.DS_Store
