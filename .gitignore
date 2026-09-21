@@ -7,10 +7,11 @@ venv/
 # Vector store data (large, regenerable from docs_raw/ -- not source)
 data/
 
-# Raw doctrine text/PDFs (large; also worth keeping out of a public repo
-# until we confirm licensing/access-tier handling is solid)
-docs_raw/*
-!docs_raw/.gitkeep
+# Raw doctrine text (.txt, extracted from public-domain U.S. government
+# publications -- shipped in the repo on purpose, so the project is
+# usable on download without a separate extraction pass. Original PDFs
+# are NOT committed (large, and easy to re-download from armypubs.army.mil).
+docs_raw/*.pdf
 
 # macOS
 .DS_Store

@@ -11,33 +11,38 @@ class StoreDoctrine:
         self.collection = collection
         self.embed_fn = embed_fn
 
-    def add_chunks(self, chunks):
-        # for each chunk: embed its text via self.embed_fn, upsert into the collection
-        # (id=chunk.chunk_id, document=chunk.text, metadata=?, embedding=vector)
-        texts = [chunk.text for chunk in chunks]
-        embeddings = self.embed_fn(texts)
-        ids = [chunk.chunk_id for chunk in chunks]
+    def add_chunks(self, chunks, batch_size=50):
+        # Embed and upsert in small batches rather than one huge call --
+        # sending hundreds of chunks to Ollama in a single request risks
+        # timeouts/memory pressure on the embedding server (seen in practice
+        # on larger doctrine docs). Batching also means a failure partway
+        # through a doc does not lose the batches that already succeeded.
+        for start in range(0, len(chunks), batch_size):
+            batch = chunks[start:start + batch_size]
 
-        # metadatas = [??? for c in chunks]
-        metadatas = [
-            {
-                "doc_id": chunk.doc_id,
-                "doc_title": chunk.doc_title,
-                "section": chunk.section,
-                "source_url": chunk.source_url,
-                "pull_date": chunk.pull_date,
-                "chunk_index": chunk.chunk_index,
-                "access_tier": chunk.access_tier
-            }
-            for chunk in chunks
-        ]
+            texts = [chunk.text for chunk in batch]
+            embeddings = self.embed_fn(texts)
+            ids = [chunk.chunk_id for chunk in batch]
 
-        self.collection.upsert(
-            ids=ids,
-            documents=texts,
-            embeddings=embeddings,
-            metadatas=metadatas
-        )
+            metadatas = [
+                {
+                    "doc_id": chunk.doc_id,
+                    "doc_title": chunk.doc_title,
+                    "section": chunk.section,
+                    "source_url": chunk.source_url,
+                    "pull_date": chunk.pull_date,
+                    "chunk_index": chunk.chunk_index,
+                    "access_tier": chunk.access_tier
+                }
+                for chunk in batch
+            ]
+
+            self.collection.upsert(
+                ids=ids,
+                documents=texts,
+                embeddings=embeddings,
+                metadatas=metadatas
+            )
 
     def query(self, question, n_results=5):
         # embed the question with self.embed_fn

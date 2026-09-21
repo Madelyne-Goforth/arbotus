@@ -1,0 +1,2019 @@
+ADP 1
+
+THE ARMY
+
+JULY 2019
+
+DISTRIBUTION RESTRICTION:
+
+Approved for public release; distribution is unlimited.
+
+This publication supersedes ADP 1, dated 17 September 2012.
+HEADQUARTERS, DEPARTMENT OF THE ARMY
+
+
+Introduction
+
+Landpower is the ability—by threat, force, or occupation—to gain, sustain, and exploit control over land,
+resources, and people (ADP 3-0). Our Army provides the United States with a campaign-quality force able
+to secure, seize, and occupy terrain; sustain itself; and enable our unified action partners to interact with,
+secure, or control populations. When necessary, the Army conducts large-scale ground combat operations on
+land to achieve strategic objectives and impose our will on enemies. No other force has this capability.
+
+Our Army exists to defend the Nation and protect our Nation’s interests. We answer the Nation’s call to serve
+whenever and wherever required. As the preeminent land warfighting force in the world, we are capable of
+managing crises and conducting large-scale ground combat as part of the joint force. Our Soldiers, leaders,
+and units possess the tactical and technical competence to conduct successful operations across the full range
+of military operations and the competition continuum. We maintain the trust of the American people who
+rely on the Armed Forces to protect and defend the Constitution and to guarantee their freedom, security, and
+interests as we have always done.
+
+To talk about our Army is to talk about its rich and dynamic history. On 14 June 1775, the Second Continental
+Congress established the Continental Army, instituting the United States Army as the first Service of the
+Armed Forces of the United States. As one of the oldest American institutions, our Army predates the
+Declaration of Independence and the Constitution. For almost two and a half centuries, Soldiers have built a
+legacy of character, competence, and commitment symbolized by the 190 campaign streamers that adorn the
+Army flag—each one signifying the great sacrifices of Soldiers on behalf of the Nation and the American
+people.
+
+The Army today is a force that is prepared to defend the Nation and protect our national interests through
+prompt and sustained land combat. This includes forcible entry from the land, sea, or air; closing with and
+destroying a determined enemy with fires and movement; sustaining the Army and joint forces; consolidating
+battlefield gains to facilitate a sustainable peace; and defending our homeland. The Army organizes, trains,
+and equips the force to conduct offensive, defensive, and stability operations when employed abroad and
+defense support of civil authorities (DSCA) tasks at home. (See figure introduction-1 on page vi.)
+
+The Army accomplishes its mission by supporting the joint force in four strategic roles: shaping operational
+environments, preventing conflict, prevailing in large-scale ground combat operations, and consolidating
+gains. The Army helps the joint force win when it achieves its operational objective in the performance of its
+roles across the range of military operations. The strategic roles clarify the enduring reasons for which our
+Army is organized, trained, and equipped. The Army provides its core competencies to the joint force, which
+are essential and enduring capabilities that enable unified action. These competencies define the Army’s
+fundamental contributions to the Nation’s defense.
+
+31 July 2019 ADP 1 Vv
+
+
+Introduction
+
+vi
+
+Figure introduction-1. Prepared to defend
+
+Technological change, as well as both state and non-state actors that threaten global stability, continuously
+influence the Army. Our Army is a foundational component of the joint force that defeats enemies who
+challenge U.S. interests worldwide. Army forces provide combatant commanders the means to shape
+operational environments, deter potential adversaries, defeat enemies in all land environments, and
+consolidate military gains on the ground to ensure sustainable outcomes.
+
+The Soldiers of today are the legacy of a proud heritage of selfless and courageous Americans who fought at
+Lexington and Concord, held the line at Yorktown, charged up Missionary Ridge, and went over the top in
+the Argonne Forest. We are descended from those who held fast in the Ardennes, conducted amphibious
+assaults across the Pacific, and perfected air-mobility in Southeast Asia. Many Soldiers still serving brought
+peace and stability to the Balkans, while thousands more are in harm’s way in Iraq, Afghanistan, and other
+dangerous places. The guiding foundations logic chart shows how the Army continues this legacy of service.
+(See figure introduction-2.)
+
+Soldiers with physical and moral courage, the ability to think critically and creatively, and the resilience to
+endure hardship provide the Army its collective strength. Soldiers are the strength of our Army today and
+tomorrow, just as they have been since 1775.
+
+ADP 1 31 July 2019
+
+
+Introduction
+
+Guiding Foundations
+
+U.S. Constitution | Title 10, USC | DODD 5100.01
+
+National Defense, Military, and Security Strategies The Army’s History: A Legacy of Service
+
+The Army Profession
+
+National Military
+Deter, deny, and defeat state
+
+adversaries. Land Operational
+
+. t Human
+environment} ; F
+Disrupt, degrade, and defeat combat PMESII-PT interaction
+
+violent extremist organizations. - : Take care of Soldiers, Department of
+Enable operations across all domains. the Army Civilians, and their Families.
+
+Strengthen our global network of
+allies and partners.
+
+U.S. Army Strategic Roles in support of the joint force
+
+mM oo ———_._ Wr._I_-_ Sm
+Shape Prevent Prevail in large-scale Consolidate gains
+
+operational conflict ground combat
+environments
+
+Ready to Prepared for the
+fight future
+
+The Army provides to the joint force
+
+The Army Core Competencies Unified Action
+
+Central Idea: Synchronization, coordination,
+and/or integration of the activities of governmental
+and nongovernmental entities with military
+operations to achieve unity of effort.
+
+Prompt and sustained land combat
+Combined arms operations
+- Combined arms maneuver and wide area security
+- Armored and mechanized operations
+- Airborne and air assault operations
+Special operations 7
+Integrate national, multinational, and joint power on land teri: aon
+Shape the operational environment Operations Interdependence
+Set and sustain the theater for the joint force Military actions conducted The purposeful
+by joint forces and those reliance by one
+Executed through Service forces employed Service on another
+— - in specified command Service’s capabilities
+Unified Land Operations relationships with each to maximize the
+The simultaneous execution of offense, defense, stability, and other, which of complementary and
+defense support of civil authorities across multiple domains to themselves, do not reinforcing effects of
+shape operational environments, prevent conflict, prevail in establish joint forces. both.
+large-scale ground combat, and consolidate gains as part of (JP 3-0)
+unified action. (ADP 3-0)
+
+ADP Army doctrine publication
+Department of Defense directive
+joint publication
+PMESII-PT _ political, military, economic, social, information, infrastructure, physical environment, and time
+United States
+United States Code
+
+Figure introduction-2. Guiding foundations logic chart
+
+31 July 2019 ADP 1 vii
+
+
+This page intentionally left blank.
+
+
+Chapter 1
+Why America Needs an Army
+
+[Y]ou don’t dictate end states from the air. You can’t control territory. You can’t influence
+people. You can’t maintain lines of control after you've established them. That will take a
+ground force....
+
+General Mark A. Welsh Ill, Air Force Chief of Staff
+
+The Nation’s need for a capable, ready Army is enduring even if it has not always been
+a priority. During important moments in our Nation’s history, such as the beginning of
+World War II and the Korean War, ill-prepared Army forces sacrificed at great cost to
+buy time while the Nation went through the deliberate and time-consuming process of
+properly organizing, equipping, and training sufficient ground forces. The first battles
+ended badly. U.S. Army forces in the Philippines and Korea suffered painful defeats in
+large part because they were not prepared for war. While Soldiers fought valiantly in
+both places, they were not ready for combat. Given the lessons of our own history, and
+that large-scale ground combat against a peer threat is no longer unthinkable, it is our
+moral imperative to ensure that we send no Soldiers into combat unless they are
+properly equipped, trained, and led.
+
+ARMY RESPONSIBILITIES
+
+1-1. The primary responsibility of our Army is to conduct prompt and sustained land combat as part of the
+joint force. The Army must deliver ready, trained, and equipped forces to meet the demands placed upon it.
+Our Nation expects the Army to be lethal, agile, and adaptive. In 1899, Secretary of War Elihu Root wrote,
+“[T]he real object of having an army is to prepare for war.” When not engaged in direct conflict, the Army
+focuses its efforts on conducting operations to prepare for and deter war. Our Army achieves readiness
+through sound doctrine, capable organizations, realistic training and education, modernized equipment,
+inspired leadership, and disciplined Soldiers. Readiness is what makes our Army credible.
+
+1-2. Our Army is interdependent with the other elements of the joint
+force and serves as the foundation upon which the joint force conducts
+land operations. Just as the Army requires joint capabilities to conduct
+operations, the joint force also requires Army capabilities to succeed capabilities to maximize the
+across the multiple domains of air, land, maritime, space, and complementary and
+cyberspace. Army support to other Services provides key enabling | reinforcing effects of both.
+capabilities to the joint force to include operational-level command and
+control, communications, intelligence, and sustainment support. Only credible and ready land forces
+operating as an element of the joint force provide U.S. decision makers with strategic options to shape
+operational environments, prevent conflict, prevail during large-scale ground combat operations, and
+consolidate gains to win in volatile or uncertain environments.
+
+Joint interdependence is the
+purposeful reliance by one
+Service on another Service’s
+
+1-3. Landpower enables the Nation’s leaders to respond to security challenges in definitive and decisive
+ways. Landpower focuses on destroying an enemy’s armed forces, occupying its territory, and breaking its
+will. Landpower protects our national interests, brings order to chaos, and protects populations. Only the
+Army has the capability and capacity to seize, occupy, and control large land areas; provide civil security;
+and provide a visible and physical presence throughout a territory or country. Controlling land requires a
+commitment of landpower, a commitment historically met by Army forces and expressed by U.S. Navy Rear
+Admiral J. C. Wylie:
+
+31 July 2019 ADP 1 1-1
+
+
+Chapter 1
+
+The ultimate determinant in war is a man on the scene with a gun. This man is the final
+power in war. He is in control. He determines who wins. There are those who would dispute
+this as an absolute but it is my belief that while other means may critically influence war
+today, after whatever devastation and destruction may be inflicted on an enemy, if the
+strategist is forced to strive for final and ultimate control, he must establish, or must
+present as an inevitable prospect, a man on the scene with a gun. This is the Soldier.
+
+1-4. The Army’s legacy of service makes clear the critical role of the American Soldier before, during, and
+after conflict. War will continue to remain an intensely human endeavor. To defend our Nation’s security
+and prosperity in the increasingly interconnected and volatile world, the Army must remain globally engaged,
+provide America’s leaders with options, and defend the Nation’s vital interests on the ground. This requires
+a well-trained and equipped Army prepared to protect the homeland, to defeat any enemy worldwide, and to
+provide disaster relief or humanitarian assistance when called upon. (See figure 1-1.)
+
+Figure 1-1. The Army’s legacy of service
+
+1-5. The Army’s essential characteristics of trust, honorable service, military expertise, stewardship, and
+€ésprit de corps enable the Army to serve America faithfully as an established military profession. These
+characteristics of the Army Profession reflect our national ideals, the Army Values, the Army Ethic, and the
+Army’s approach to accomplishing its mission to defend the Constitution and the American people. Soldiers
+and Department of the Army (DA) Civilians are professionals, guided in everything they do by the Army
+Ethic. They are certified and bonded with other Army professionals through a shared identity and service
+
+within a culture of trust.
+
+1-2 ADP 1 31 July 2019
+
+
+Why America Needs an Army
+
+1-6. Today’s Soldier joins those men and women who previously served the Nation with courage and
+dedication. The campaigns and battles for which our forbearers fought set clear milestones marking the
+Army’s role and importance in American history. The Army’s historical legacy discussed in the appendix
+helps illuminate the challenges our Army faced in the past and will likely face in the future.
+
+THE TOTAL ARMY
+
+1-7. The Department of Defense directs the Army to organize, train, and equip as an integrated total force.
+It consists of three components: the Regular Army, the Army National Guard, and the Army Reserve.
+Together, the three components representing the Total Army ensure that we have the capacity, capability,
+and endurance to do what the Nation requires. (See figure 1-2.)
+
+Figure 1-2. The Total Army
+
+REGULAR ARMY
+
+1-8. The Regular Army, commonly referred to as the active duty force, consists of full-time Soldiers
+supported by the Army Civilian Corps. The Regular Army is under the command of the President of the
+United States. Service-specific matters are the responsibility of the Secretary of the Army, the Chief of Staff
+of the Army, and other appointed officials. The Regular Army includes units of all specialties necessary for
+the prompt employment of land forces. However, the Regular Army relies upon units and capabilities
+maintained in the Army National Guard and Army Reserve.
+
+ARMY NATIONAL GUARD
+
+1-9. The Army National Guard has a dual role based on the Constitution. Its first role is that of a state
+military force. Its second role is as an operational reserve for the Regular Army. Each state, the U.S. territories
+(Guam, Puerto Rico, and the Virgin Islands), and the District of Columbia have Army National Guard units
+
+31 July 2019 ADP 1
+
+
+Chapter 1
+
+totaling 54 state and territorial National Guards. Army National Guard forces remain under the command of
+their respective governors until mobilized for federal service. Each state or territory Army National Guard
+has an adjutant general—a general officer appointed by the governor—who serves as its uniformed leader.
+The governor can order the Army National Guard to state service since it is a state military force. The Army
+National Guard responds to natural disasters and other domestic emergencies many times each year. While
+serving their states, these Soldiers are subject to civil laws and their states’ Codes of Military Justice. A
+governor can use the Army National Guard of the state for law enforcement, which is something that federal
+military forces cannot perform except under special circumstances. A small number of Army National Guard
+Soldiers are on full-time active duty, a duty status called “Active Guard and Reserve.”
+
+1-10. When ordered to active duty, Army National Guard Soldiers become subject to the Uniform Code of
+Military Justice and fall under the command of combatant commanders. Army National Guard forces are
+similarly organized and equipped as units in the Regular Army and Army Reserve. The Department of the
+Army provides their equipment, provides much of their funding, and is responsible for assessing their combat
+readiness. However, states retain latitude in recruiting, manning, and training. (See figure 1-3.)
+
+Figure 1-3. Training
+
+ARMY RESERVE
+
+1-11. The Army Reserve is under the command of the President and serves as a federal military force.
+Elements of it mobilize when required. Most Army Reserve Soldiers serve for a period in the Regular Army
+and then elect to continue their service in the Reserve. The Army Reserve makes up about a fifth of the
+Army’s organized units, but it provides a half of the Army’s sustainment units, a fourth of the Army’s
+mobilization base-expansion capability, and most of its civil affairs capacity. The Army Reserve is also the
+Army’s major source of trained individual Soldiers for strengthening headquarters and filling vacancies in
+the Regular Army during a crisis. Many Army Reserve Soldiers are also civilian professionals, such as nurses,
+dentists, and computer technicians, who augment critical Army specialties. Similar to Army National Guard
+members, a small number of Army Reservists are full-time active duty.
+
+ARMY CIVILIAN CORPS
+
+1-4
+
+1-12. The Army has the largest civilian workforce in the Department of Defense. DA Civilians are full-time
+and enduring members of the profession. The Army Civilian Corps provides the complementary and
+reinforcing skills, expertise, and competence required to project, program, support, and sustain the uniformed
+side of the Army.
+
+1-13. DA Civilians have assumed increased levels of responsibility and greater authority since the Army
+transitioned to a professional volunteer force. Over 23,000 DA Civilians have deployed to Afghanistan and
+Iraq in support of the uniformed Services since 2001. They hold senior leadership and mission critical
+positions in operating forces and key positions in the institutional force. DA Civilians also serve in Army
+Reserve centers. Like Soldiers and members of Congress, they take an oath solemnly swearing that they will
+
+ADP 1 31 July 2019
+
+
+Why America Needs an Army
+
+support and defend the Constitution. Like their uniformed counterparts, DA Civilians live the Army Values
+and prepare for unforeseen future threats.
+
+THE ARMY FUNCTIONAL STRUCTURE
+
+You may fly over a land forever; you may bomb it, atomize it, pulverize it and wipe it clean
+of life-but if you desire to defend it, protect it, and keep it for civilization, you must do this
+on the ground, the way the Roman legions did, by putting your young men in the mud.
+
+T. R. Fehrenbach
+
+1-14. Soldiers and DA Civilians serve in two functionally discrete entities known as operating forces and the
+institutional force.
+
+OPERATING FORCES
+
+1-15. Operating forces consist of units organized, trained, and equipped to deploy and fight. They make up
+about two-thirds of the Regular Army and three-fourths of the Army’s total force. The Secretary of Defense
+assigns these units to the various combatant commanders. Operating forces are modular. They consist of
+interchangeable units grouped under various headquarters. When a joint force commander specifies the
+capabilities needed, the Army provides tailored force packages to provide those capabilities. In addition to
+conventional forces, the Army also provides the largest element of the joint special operations forces. Army
+special operations forces include several special forces groups, the Ranger Regiment, civil affairs units,
+military information support units, and special operations aviation.
+
+THE INSTITUTIONAL FORCE
+
+1-16. The institutional force ensures the readiness of all Army forces. The institutional force consists of
+Army organizations whose primary mission is to generate, prepare, and sustain operating forces of the Army.
+Therefore, the institutional force remains under the command of the Department of the Army. The training
+base provides military skills and a professional education to every Soldier—as well as to members of the
+other Services and multinational partners. The institutional force is also the Army’s principal interface with
+the commercial sector. Our national industrial base provides equipment and sustainment for the Army
+managed by the various headquarters of the institutional force. Army installations are power projection
+platforms that train forces and serve as departure points. Once operating forces deploy, the institutional force
+provides the sustainment that Soldiers need for their missions and specified support provided by the Army to
+the other Services. The institutional force focuses on departmental (Title 10, USC) tasks including—
+
+e Recruiting.
+
+Maintaining.
+
+Organizing.
+
+Servicing.
+
+Supplying.
+
+Training.
+
+Educating.
+
+Mobilizing.
+
+Demobilizing.
+
+Administering (including the morale and welfare of personnel).
+Developing, outfitting, and repairing military equipment.
+
+Equipping (including research and development).
+
+Constructing, maintaining, and repairing facilities.
+
+1-17. The institutional force contributes to operational missions by optimizing individual and team
+performance and by ensuring the right Soldier is in the right place at the right time. Combined with operating
+forces, it develops competencies critical to future responsibilities.
+
+31 July 2019 ADP 1 1-5
+
+
+This page intentionally left blank.
+
+
+Chapter 2
+Today’s Army
+
+To be prepared for war is one of the most effectual means of preserving peace.
+George Washington
+
+The Army operates in all domains, converging its capabilities to control land, which is
+the most complex domain of all. This is where conflicts are most often resolved and
+sustainable outcomes achieved. The land domain includes humanity in its entirety of
+cultures, religions, social and economic groups, and politics. These can all be drivers
+of instability and conflict in today’s operational environments. The Army enables and
+influences operations across the air, maritime, space, and cyberspace domains, each of
+which has influence on the land domain. Winning on land requires Soldiers, leaders,
+and units to have the skills, knowledge, and attributes to operate effectively in
+ambiguity and chaos. Continuous learning, adaptation, and agility are the keys to
+winning in lethal and uncertain environments.
+
+OPERATING IN THE LAND DOMAIN
+
+2-1. The variations in climate, terrain, velocity and complexity of human interaction, and the diversity of
+populations have a far greater impact on operations in the land domain than in any other domain. The most
+distinguishing characteristic of the land domain is the human element. Humans temporarily transit the air,
+maritime, and space domains, but they ultimately live on land. Controlling terrain, infrastructure, and
+populations are uniquely human-oriented endeavors that require Soldiers to operate in the midst of political,
+economic, social, and religious tumult. The human context informs how the Army conducts operations among
+populations, within the military, political, and physical constraints of the environment. Winning battles and
+engagements alone is insufficient for achieving sustainable outcomes. Army forces consolidate gains with
+and among populations to ensure battlefield victories translate into long-term success.
+
+2-2. Geographic combatant commanders implement various security cooperation activities to shape the
+environment in ways favorable to U.S. interests. Most activities involve working with foreign security forces
+on the ground. These activities build partner defense capabilities and enhance the overall security of the
+theater. Our assistance assures our multinational partners and improves joint force access to key regions. The
+degree of security cooperation communicates U.S. commitment, strength, and awareness to adversaries in
+those regions. If necessary, combat-ready Army units deploy to threatened areas to reinforce host-nation
+forces, complement joint air and maritime forces, and communicate clear U.S. intent to resist aggression.
+Partnership develops trust, improves interoperability, and builds shared understanding as our Soldiers
+positively influence host-nation forces, leaders, populations, and other government agencies. This partnership
+produces enduring positive effects for regional stability and effective deterrence.
+
+2-3. Few nations can afford to field and employ a large air force or navy. The principal military forces
+across the globe are armies, even in regions often defined by their proximity to large bodies of water. For
+most nations, defense and security considerations center on land forces. The United States furthers many of
+its strategic interests using Soldiers who work on a daily basis directly with multinational partners to improve
+their ground forces. Our Soldiers make the Army the most capable land force in the world, which in turn
+maintains U.S. credibility and security.
+
+31 July 2019 ADP 1 2-1
+
+
+Chapter 2
+
+LAND COMBAT
+
+2-4. Land combat consists of operations against a
+thinking and lethal enemy in conditions that include
+violence, chaos, fatigue, fear, and uncertainty. Large-scale
+ground combat is the most lethal and demanding
+environment human beings have ever devised to resolve
+conflict. Soldiers face enemy forces with advanced
+weapons and sophisticated means of communication.
+Enemy forces use every means available to achieve their
+ends to include terror, criminal activities, and information
+warfare. They operate in and among noncombatants for
+concealment and protection. To an ever-increasing degree,
+information and cyber activities are inseparable from land
+operations. Cyber activities directly affect our ability to
+communicate, meaning that successfully conducting land
+
+The Army must—
+
+Engage regionally and respond globally.
+Develop the situation through action.
+Conduct combined arms operations.
+
+Conduct reconnaissance in close
+contact with the enemy and population.
+
+Sustain high-tempo operations.
+Establish and maintain security.
+Consolidate gains.
+
+Respond to and mitigate crises in the
+homeland.
+
+Ensure institutional and operational
+
+combat requires protecting friendly networks while
+exploiting or degrading enemy networks. Compensating
+for the likelihood of degraded communications and the
+resulting ambiguity or uncertainty requires highly skilled
+Soldiers in well-trained units able to exercise disciplined
+initiative and accept risk. The Army adapts to and compensates for uncertainty with its mission command
+approach, which focuses each echelon on the purpose of operations in context and not simply on the execution
+of specific tasks that may no longer contribute to achieving an operational goal.
+
+synergy and innovation.
+
+Develop innovative leaders and
+optimize human performance.
+
+2-5. Due to the size and number of its combined arms formations, the Army is the only U.S. force capable
+of defeating threats around the globe during sustained land combat. The Army is uniquely organized, trained,
+and equipped with the depth and capabilities to be a credible land force deterrent against world and regional
+powers. Should deterrence fail, the Army, with its unified action partners, makes victory against an enemy
+decisive. (See figure 2-1.)
+
+Figure 2-1. The Army as part of the joint force
+
+OPERATIONAL ENVIRONMENTS
+
+2-6. Variables within an operational environment pose numerous challenges. The context in which these
+challenges present themselves adds layers of complexity to military endeavors. Advances in information
+systems, robotics, directed energy, propulsion, biological engineering, and other fields are changing the world
+
+2-2 ADP 1 31 July 2019
+
+
+Today’s Army
+
+at a rapid pace. The Army, as part of the joint force, must contend with these changes as the swift pace of
+human interaction and events continues to increase. This environment requires Army units that are trained,
+equipped, and led to operate across the competition continuum in situations that may include enemies with
+superior conventional capabilities, weapons of mass destruction, and advanced cyberspace and counter-space
+capabilities. Our units must operate competently in any terrain and in close coordination with unified action
+partners.
+
+2-7. To meet global challenges, the joint force conducts operations quickly and in sufficient scale to shape
+an environment, prevent conflict through deterrence, prevail in combat, and consolidate gains to achieve
+enduring security outcomes. The Army’s role in pursuit of these objectives is unique and tied closely to the
+human dimension.
+
+2-8. Enemies and adversaries are often not easy to identify or locate. State and non-state actors operate
+against the U.S. openly and covertly. These actors are often armed with the most advanced weapons while
+also using simple low-cost technologies to mitigate U.S. capabilities, exploit vulnerabilities, threaten vital
+interests, and promote local or regional instability. The Army operates in and among populations to counter
+threats that originate on land but can endanger U.S. interests across multiple domains.
+
+UNIFIED ACTION
+
+2-9. The Army operates with other Services in a joint comprehensive approach called unified action.
+Unified action is the synchronization, coordination, and/or integration of the activities of governmental and
+nongovernmental entities with military operations to achieve unity of effort (JP 1). Unified action partners
+are those military forces, governmental and nongovernmental organizations, and elements of the private
+sector with whom Army forces plan, coordinate, synchronize, and integrate during the conduct of operations
+(ADP 3-0). These operations ensure unity of effort and create multiple dilemmas for an enemy force allowing
+friendly forces to seize and exploit the initiative. The synergy that results from joint force operations
+maximizes the capabilities of U.S. military power.
+
+2-10. The complexity and lethality of operations in the land domain demand mastery of combined arms
+operations, which includes the full array of joint capabilities. Combined arms operations are the synchronized
+application of two or more elements of one Service along with other unified action partners and their
+capabilities. These operations are an extension of the historical idea of combined arms—the synchronized
+application of arms to achieve an effect greater than if each arm was used separately. Combined arms is not
+a new idea. The Army’s history contains multiple examples of how well executed combined arms operations
+led to success on the battlefield. Mastery of combined arms operations remains necessary for success in the
+21st century. It can only be achieved through demanding and repetitive training.
+
+2-11. The Army depends on and supports air and naval forces across all domains. The Army depends on the
+other Services for strategic lift, joint fires, joint intelligence, surveillance and reconnaissance, and other
+capabilities. The Army supports other Services, combatant commands, multinational forces, and other unified
+action partners with communications, intelligence, rotary-wing aviation, air and missile defense, logistics,
+command and control, and engineering. Collectively, the Army calls these capabilities “Army support to
+other Services.” These relationships create joint interdependence or an integration of complementary and
+reinforcing capabilities at strategic, operational, and tactical levels of warfare.
+
+2-12. The effects of joint interdependence provide extraordinary support to tactical units. The vast array of
+joint capabilities enable the employment of small units in decentralized fashion across vast areas. Tactical
+units can employ precise joint fires with lethal and nonlethal capabilities in minutes, delivered by systems
+potentially hundreds of miles away.
+
+2-13. In addition to traditional air and maritime threats, the Army and joint forces face growing threats in
+the space domain. Ensured access to the space domain increases combined arms effectiveness and integrates
+joint capabilities. The Army maneuvers over large distances with small units enabled by communications
+that depend on U.S. space assets. Space systems allow the Army access to communications, positioning,
+navigation, and timing to deploy and employ rapidly and lethally. Our adversaries understand the importance
+of space capabilities and continuously develop means to contest them. Army forces must be prepared to
+continue operations effectively when space capabilities are degraded.
+
+31 July 2019 ADP 1 2-3
+
+
+Chapter 2
+
+2-14. Threats from cyberspace are continuous and increasing exponentially. Our adversaries and enemies
+heavily invest in capabilities that can disrupt or deny communications support to U.S. forces while protecting
+their own systems. Our adversaries routinely collaborate in cyberspace by conducting coordinated tactical
+operations and strategic-level information warfare that threaten U.S. interests. These threats require Army
+forces that are ready to operate with degraded communications, reduced situational awareness, and within a
+negative information environment. Army forces conduct cyberspace operations as part of unified action
+throughout the range of military operations.
+
+JOINT MISSIONS
+
+2-15. The Army gives the combatant commander depth and versatility. Because land forces can conduct a
+broad range of operations on a large scale, Army forces offer the combatant commander multiple options to
+achieve national military objectives. These capabilities include combinations of armored, mechanized,
+motorized, airborne, and air assault formations; attack as well as lift and reconnaissance aviation; special
+operations forces; and long-duration sustainment. With their ability to combine diverse capabilities for
+specific mission requirements, Army forces provide the combatant commander with tailorable and scalable
+force packages to address a broad range of possible contingencies. This simultaneous use of a broad range of
+friendly capabilities from across the Army, the joint force, and unified action partners creates dilemmas and
+narrows options for both adversaries and enemies.
+
+2-16. The Army provides significant contributions to the accomplishment of the joint force prioritized
+missions established in the National Military Strategy. Joint campaigns may require land operations as part
+of unified action since land forces often control areas or assets that influence and enable operations in the
+other domains. For this reason, land forces are vital during almost all operations, even in places where
+maritime or air forces dominate. Joint missions are consistent with the Army’s purpose and long-standing
+role in national defense.
+
+2-17. Most wars and conflicts are won by committing land forces. Land forces not only seize, occupy, and
+defend land areas, but they often also remain on the ground to consolidate gains until the achievement of
+U.S. national long-term objectives. Victory rarely stems from a single, rapid strike; swift campaigns are a
+rare exception to the historical norm. Due to the varying nature of war, conflicts often last months or years.
+Wars tend to evolve into something quite different from what was originally planned as both sides adapt to
+impose their will on one another. Land forces prove the most tangible and durable measure of America’s
+commitment to defend its interests precisely because of the effort and potential costs of doing so. The
+introduction of land forces signals the Nation’s willingness to protect multinational partners and deter
+aggression.
+
+STRATEGIC-LEVEL CONTEXT FOR THE ARMY
+
+2-18. Readiness for ground combat is and will remain the U.S. Army’s first priority. The Army accomplishes
+its mission by supporting the joint force in four strategic roles: shaping operational environments, preventing
+conflict, prevailing in large-scale ground combat, and consolidating gains. The strategic roles clarify the
+enduring reasons for which our Army is organized, trained, and equipped. Army forces are further organized,
+trained, and equipped to provide specific core competencies delivering essential and enduring capabilities
+aligned with joint doctrine. The Army’s operational concept of unified land operations described in ADP 3-0
+is built on the conceptual framework established by the Army’s strategic roles and its core competencies.
+Title 10, USC, the National Military Strategy, and DODD 5100.01 provide the overall guidance on the
+capabilities that the Army must provide to the Nation. The Army shapes operational environments and
+prevents conflict based upon the requirements of combatant commanders. The ability to prevail against any
+enemy during large-scale ground combat is what provides the military credibility necessary to deter war.
+Every operation must consolidate gains to make temporary operational success enduring and set the
+conditions for a sustainable and stable environment. Our non-negotiable obligation to the Nation is to win by
+achieving the combatant commander’s operational objective when the Army is committed to any type of
+operation.
+
+ADP 1 31 July 2019
+
+
+Today’s Army
+
+SHAPE OPERATIONAL ENVIRONMENTS
+
+2-19. The Army provides unique forces with capabilities to shape operational environments. Shaping
+operational environments allows combatant commanders to reassure partners and deter aggression while
+establishing conditions that support the potential employment of joint forces. Army regionally aligned
+forces—including special operations units, Army Reserve units, and Army National Guard units—assist
+partners with internal defense and develop the capabilities needed to deter adversaries and defeat enemies.
+(See figure 2-2.) Army forces further develop relationships with multinational partner land forces, share
+intelligence, strengthen their security forces, increase cultural awareness, and conduct bilateral and
+multilateral military exercises. Through efforts such as the State Partnership Program, Army National Guard
+and Reserve units supply unique and dual-trained Soldiers with special skills obtained as civilians to assist
+in medical and engineering activities, disaster preparedness, critical infrastructure management, and resource
+protection. Together, these efforts allow the Army to maintain a global landpower network that is critical in
+shaping operational environments and winning wars. Army forces conduct shaping operations through the
+day-to-day actions of its Service component commanders, trainers, advisors, and logistic activities as
+specified under Title 10, USC and support to Title 22 and Title 50, USC.
+
+Figure 2-2. Soldiers with special skills
+
+PREVENT CONFLICT
+
+2-20. Preventing conflict includes all activities that deter adversary military actions which threaten allies or
+partners and deny them the ability to achieve objectives counter to U.S. interests. A well-trained, credible,
+and capable Army reduces the risk of aggression by adversaries because it raises both the risk and potential
+cost of military action to their forces. Moving ready and trained Army forces into a region tells adversaries
+that the United States is prepared and willing to protect its interests. Partner nations under external threats
+understand that introducing U.S. forces alters the regional military balance of power in their favor and
+bolsters their resolve to resist aggression. Multinational partners and adversaries recognize that Army
+forces—combined with the nation’s joint air, maritime, and space-based forces—are dominant and therefore
+are a deterrence to armed conflict. This role meets the objectives described in the National Military Strategy.
+
+PREVAIL IN LARGE-SCALE GROUND COMBAT
+
+2-21. The Army’s capability and capacity to conduct large-scale ground combat is unique and foundational
+to its other roles. Only the Army has the capabilities necessary for sustained ground combat anywhere in the
+world. The credibility inherent in its ability to conduct large-scale ground combat as part of the joint force is
+a critical part of U.S. conventional deterrence. It is a primary source of assurance to friendly nations and an
+
+31 July 2019 ADP 1 2-5
+
+
+Chapter 2
+
+important factor in worldwide stability. The U.S. Army conducts large-scale ground combat as part of the
+joint force. When it deploys and fights, the Army both enables and is enabled by the other Services when
+they perform their roles. An Army that can defeat any enemy worldwide requires professionally committed
+leadership, well-equipped and trained units, and proficiency in the conduct of joint and multinational
+operations. Maintaining the readiness necessary for large-scale ground combat is a difficult and continual
+process that consumes significant time and resources. Readiness for large-scale ground combat operations
+saves lives.
+
+CONSOLIDATE GAINS
+
+2-22. Operations to consolidate gains make temporary operational successes enduring and set the conditions
+to facilitate the transition of control over territory to legitimate authorities. Army forces enable the joint force
+commander to capitalize on operational success by following through to ensure sustainable conditions on the
+ground. Consolidation of gains is an integral part of winning armed conflict and is essential to retaining the
+long-term initiative over determined adversaries. Army forces reinforce and integrate the efforts of all unified
+action partners when they consolidate gains. Operations serve a higher national purpose in support of U.S.
+interests and are planned and executed to support that purpose at each echelon. A clear understanding of the
+higher purpose of the mission and operational environment determines what must happen to consolidate gains
+during the course of operations. How well ground forces consolidate gains determines in large part how
+enduring the results of operations will be. Effectively consolidating gains increases options for national
+leaders and contributes to decisive outcomes. (See figure 2-3.)
+
+Figure 2-3. An enduring Army
+
+WIN
+
+2-23. Winning is the achievement of the purpose of an operation and the fulfillment of its objectives. The
+Army wins when it successfully performs its roles as part of the joint force during operations. It wins when
+it effectively shapes an operational environment for combatant commanders and when it responds rapidly
+with enough combat power to prevent war through deterrence. When required to fight, the Army’s ability to
+prevail in large-scale ground combat becomes a decisive factor in breaking an enemy’s will to continue
+fighting. Army forces win when the enemy is defeated to the degree that it can no longer achieve their
+objectives or effectively contest the joint force on land. To ensure that the military results of combat are not
+temporary, the Army follows through with its unique capability to consolidate gains and ensure enduring
+outcomes that are favorable to U.S. interests.
+
+ADP 1 31 July 2019
+
+
+Today’s Army
+
+CORE COMPETENCIES
+
+2-24. Core competencies clearly express how the Army
+contributes to national defense and joint force operations. The
+
+. Army Core Competencies:
+
+Army’s five core competencies support the Army mission to Prompt and sustained land
+
+ensure forces can achieve the Army’s strategic roles. A core combat.
+
+competency is not a task; it is a capability stated in general Combined arms operations:
+
+terms. Combined arms maneuver
+
+and wide area security.
+PROMPT AND SUSTAINED LAND COMBAT Armored and mechanized
+. . . operations.
+
+2-25. Prompt and sustained land combat is the assigned Airborne and air assault
+
+function of the Army, directed both by Congress in Title 10, operations.
+
+USC, and by DODD 5100.01. This function is the foundation . .
+
+from which the Army builds its ability to win in combat. It is SIBEGIE, GP S0EMONIE.
+
+the primary function for which the Army organizes, trains, and Set and sustain the theater for
+
+equips forces. Prompt land combat is what requires the Army’s the joint force.
+
+expeditionary capability: the ability to deploy on short notice Integrate national, multinational,
+
+task-organized forces capable of immediately conducting and joint power on land.
+
+operations upon arrival to austere locations. Sustained land
+combat requires the Army to campaign with the power to conduct extended operations and continuous
+consolidation of gains necessary to achieve the objectives set for the Army by the joint force. Sustained land
+combat spans the range of military operations. It requires a force that can sustain its efforts for as long as
+necessary and can adapt to unpredictable changes in an operational environment.
+
+COMBINED ARMS OPERATIONS
+
+2-26. All operations are combined arms operations. Combined arms is the synchronized and simultaneous
+application of arms to achieve an effect greater than if each element was used separately or sequentially
+(ADP 3-0). Combined arms includes Army capabilities and joint, multinational, and other unified action
+partner capabilities. Combined arms operations integrate leadership, information, and each of the warfighting
+functions. Used destructively, combined arms integrate different capabilities so that responding to one
+capability makes the enemy vulnerable to another. Combined arms multiply the effects of Army and joint
+capabilities in operations. They require highly trained Soldiers, skilled leaders, and integrated information
+systems. Commanders synchronize combined arms capabilities using command and control to employ
+combat power to their best advantage.
+
+2-27. Combined arms maneuver is the application of combat power in time and space to defeat enemy
+ground forces; seize, occupy, and defend terrain; and achieve physical, temporal, and psychological
+advantages over the enemy. Combined arms maneuver seizes, retains, and exploits the initiative. Army forces
+apply combat power from unexpected directions, achieve surprise, and render an enemy force unable to
+respond effectively.
+
+2-28. Wide area security is the application of the elements of combat power to protect populations, unified
+action partners, infrastructure, and activities to deny enemy forces positions of advantage across large
+expanses, to consolidate gains, and to retain the initiative. Wide area security includes six stability tasks in
+support of a host nation: establish civil security, establish civil control, restore essential services, support
+governance, support economic and infrastructure development, and conduct security cooperation.
+
+2-29. Armored and mechanized operations provide the capability to conduct sustained and large-scale
+ground combat operations. The Army has the unique capability to employ large formations of armored,
+mechanized, and motorized forces that provide protected ground mobility and firepower. These forces can
+be an asymmetric advantage when used against an enemy force without comparable capability, and they may
+be used to defeat an enemy’s anti-access and area-denial measures when employed from offset objectives.
+Armored, mechanized, and motorized forces are an essential part of the joint force as a maneuver force in
+close combat. Armored and mechanized forces serve as a deterrent to armed conflict and can deploy
+worldwide.
+
+31 July 2019 ADP 1 2-7
+
+
+Chapter 2
+
+2-30. The Army uses airborne and air assault operations, as part of the joint force, to project large military
+forces rapidly into an operational area, sustain those forces in the face of armed opposition, and, if necessary,
+defeat enemy anti-access and area-denial capabilities. Projecting and sustaining airborne and air assault
+forces requires the capability to secure multiple entry points into an operational area. The joint force
+application of airborne and air assault operations for forcible entry gives leaders flexibility and depth to set
+conditions. Airborne and air assault operations capitalize on mobility to surprise an enemy force, seize a
+lodgment, and gain the initiative. Airborne operations are unique from other operations in that they can
+project and deliver operationally significant forces over strategic distances.
+
+SPECIAL OPERATIONS
+
+2-31. Special operations require unique modes of employment, tactics, equipment, and training. Army
+special operations forces provide combatant commanders with precise lethal and nonlethal capabilities. These
+capabilities include special warfare and surgical strike operations in hostile, denied, or politically sensitive
+areas. These operations may be time sensitive, clandestine, low visibility, and high risk. Special operations
+forces possess uniquely assessed, organized, trained, and equipped Soldiers. The interdependence of special
+operations and conventional forces, gained by the right mix of complementary and reinforcing capabilities,
+enhances success throughout the range of military operations across the competition continuum. (See
+figure 2-4.)
+
+Figure 2-4. Special operations
+
+SET AND SUSTAIN THE THEATER FOR THE JOINT FORCE
+
+2-32. The Army’s ability to set and sustain the theater is essential to allowing the joint force to seize the
+initiative while restricting an enemy force’s options. Setting the theater for the joint force includes the
+establishment of access and infrastructure to support joint force operations. The Army possesses unique
+capabilities to establish and maintain vital infrastructure and support the joint force commander. These
+capabilities include intelligence support; communications; port and airfield opening; logistics; ground-based
+air defense; chemical defense; and reception, staging, onward movement, and integration. Sustaining the
+theater for the joint force includes theater sustainment and meeting executive agent responsibilities.
+Maintaining critical infrastructure—as well as sustaining joint forces, unified action partners, and
+multinational forces—is accomplished through the Army’s support to other Services, executive agent, and
+Title 10, USC, requirements. The Army uses Army Service component commands, forward deployed forces,
+and rotational forces to develop, sustain, and operate this theater structure.
+
+ADP 1 31 July 2019
+
+
+Today’s Army
+
+INTEGRATE NATIONAL, MULTINATIONAL, AND JOINT POWER ON LAND
+
+2-33. The Army has the largest number of headquarters that are joint task force headquarters capable and
+can combine all elements of national, multinational, and joint power. Army headquarters are designed to be
+the core components that integrate unified action partner capabilities into a Service headquarters or rapidly
+transition from a Service headquarters into a joint or multinational joint task force or land component
+command. These headquarters provide the capability to plan, prepare, execute, and assess joint and
+multinational operations. Army forces support partners with situational understanding, security, and logistics.
+Army forces ensure combatant commanders possess the ability to reinforce and sustain land forces rapidly
+through forward positioning, theater infrastructure capabilities, and the use of prepositioned equipment and
+supplies. Army headquarters and forces help impose order to chaotic situations and synchronize plans,
+programs, and efforts necessary to accomplish the mission.
+
+UNIFIED LAND OPERATIONS
+
+2-34. Army forces accomplish their missions through the operational concept called unified land operations.
+Unified land operations is the simultaneous execution of offense, defense, stability, and defense support of
+civil authorities across multiple domains to shape operational environments, prevent conflict, prevail in large-
+scale ground combat, and consolidate gains as part of unified action (ADP 3-0). Army forces defeat enemy
+forces, control terrain, protect populations, and preserve joint force freedom of action in the land domain by
+applying the Army core competencies. Army operations conducted overseas encompass offensive, defensive,
+and stability operations. Within the United States, the Army supports civil authorities through DSCA. If
+enemy forces threaten the homeland, Army forces combine offense and defense with DSCA. The effort
+accorded to each element is proportional to the mission and varies with the situation and conditions of an
+operational environment. (See figure 2-5.)
+
+Figure 2-5. Unified land operations
+
+2-35. During operations, Army forces enable joint force freedom of action by denying enemy forces the
+ability to operate uncontested in domains other than land wherever possible. Leaders synchronize the efforts
+of unified action partners across multiple domains to ensure unity of effort. Army forces adapt continuously
+to seize, retain, and exploit the initiative. Unified land operations create multiple dilemmas for the enemy by
+placing enemy forces and objectives at risk. Army forces have the mobility, protection, and firepower
+
+31 July 2019 ADP 1 2-9
+
+
+Cha
+
+pter 2
+
+necessary to strike enemy forces unexpectedly from many directions creating multiple dilemmas for the
+enemy commander. Even when conducting dispersed operations, mobile combined arms teams exercising
+mission command can concentrate combat power rapidly to isolate enemy forces, attack critical enemy assets,
+and exploit opportunities.
+
+MISSION COMMAND
+
+2-10
+
+2-36. Mission command is an approach that empowers subordinates and is necessary for success in complex
+and ambiguous environments. Two hundred years ago, commanders could generally see the entire battlefield
+on which they fought as well as the friendly and enemy forces on that ground. This meant that commanders
+could personally observe situations, make decisions, and closely control their forces during battle.
+
+2-37. By the time of the Civil War, the growth of armies in size and complexity extended forces beyond the
+direct view of one person. Commanders could no longer personally control all the forces under their
+command. As a result, American commanders began to practice an approach that favored decentralized
+execution. This approach meant using mission orders that emphasized the purpose of an operation to achieve
+a desired end state rather than the accomplishment of individual tasks. Subordinate leaders at all echelons
+were required to exercise initiative within the commander’s intent to accomplish missions.
+
+2-38. The 1905 Field Service Regulation first codified these ideas. It contained the following passage that
+served as an early explanation of the mission command approach:
+
+An order should not trespass on the province of the subordinate. It should contain
+everything, which is beyond the independent authority of the subordinate, but nothing
+more. When the transmission of orders involves a considerable period of time during which
+the situation may change, detailed instructions are to be avoided. The same rule holds
+when orders may have to be carried out under circumstances, which the originator of the
+order cannot completely forecast, in such cases, letters of guidance are more appropriate.
+It should lay stress upon the object to be attained, and leave open the means to be
+employed.
+
+2-39. Subsequent versions of our Army’s operations manual have built on this idea. Mission command is the
+Army’s approach to command and control. Over time, changes within operational environments required the
+Army to decentralize operations to the maximum extent possible. Mission command allows for the
+empowerment of subordinates to exercise disciplined initiative and implement decisions based on their
+understanding of the commander’s intent rather than a directed order or task.
+
+2-40. Mission command requires leaders at the lowest practical echelon to seize, retain, and exploit the
+initiative by directing action under varying degrees of uncertainty. Commanders seek to counter the
+uncertainty of an environment by empowering subordinates at the lowest level to make decisions, act, and
+quickly adapt to changing circumstances. These situations may lead a subordinate to deviate from the initial
+directive as long as it is within the desired commander’s intent. Mission command is based on mutual trust
+and a shared understanding of purpose among commanders, subordinates, and unified action partners.
+In 1941 Admiral E. J. King stressed the importance of training leaders and units in mission command:
+
+If subordinates are deprived—as they now are—of that training and experience which will
+enable them to act “on their own’ —if they do not know, by constant practice, how to
+exercise “initiative of the subordinates ”’—if they are reluctant (afraid) to act because they
+are accustomed to detailed orders and instructions—if they are not habituated to think, to
+judge, to decide and to act for themselves in their several echelons of command—we shall
+be in sorry case when the time of “active operations” arrives.
+
+2-41. Mission command requires a command climate in which commanders encourage subordinates to
+accept risk and exercise disciplined initiative to seize opportunities and to counter threats, all within the
+commander’s intent. Commanders realize that subordinates will make errors. Successful commanders allow
+subordinates to learn through their mistakes and develop experience. With an accepting command climate,
+subordinates gain the experience required to operate on their own. Using mission orders, commanders focus
+on the purpose of the operation rather than on the details of how to perform assigned tasks. This focus
+minimizes centralized control and allows subordinates the greatest freedom of action. When delegating
+authority to subordinates, commanders set the necessary conditions for success by allocating appropriate
+
+ADP 1 31 July 2019
+
+
+Today’s Army
+
+resources to subordinates based on assigned tasks and conducting shaping operations that enable their
+subordinates’ success.
+
+2-42. Effective operations are possible when commanders have the expertise and communications to
+synchronize Army, joint, and multinational combat power and to integrate the effects of unified action
+partners. Commanders, supported by their staffs, use the operations process to drive the conceptual and
+detailed planning necessary to understand, visualize, and describe their operational environments; make and
+articulate decisions; and direct, lead, and assess military operations. The operations process of plan, prepare,
+execute, and assess enables Army forces to integrate joint, multinational, and other unified action partner
+capabilities throughout operations.
+
+2-43. Commanders cannot exercise command and control alone. The science of control—regulating,
+monitoring, and directing unit actions—requires sophisticated and rugged information systems along with a
+well-trained staff to employ appropriate processes. Even knowledgeable and charismatic commanders cannot
+control everything beyond their immediate surroundings without the supporting personnel, networks,
+information systems, processes and procedures, and facilities and equipment. These components, as well as
+space and cyber capabilities, help commanders understand situations to make and implement better decisions.
+
+31 July 2019 ADP 1 2-11
+
+
+This page intentionally left blank.
+
+
+Chapter 3
+Ready to Fight, Prepared for the Future, Determined to Win
+
+[T]hrough all this welter of change and development your mission remains fixed,
+determined, inviolable—it is to win our wars. Everything else in your professional career
+is but corollary to this vital dedication. ... [Y]ou are the ones who are trained to fight;
+yours is the profession of arms—the will to win, the sure knowledge that in war there is no
+substitute for victory....
+
+General Douglas MacArthur
+
+The future Army will be ready and able to fight and win in our Nation’s most lethal
+wars. Intelligence, speed, power, and endurance will define an expeditionary 21st
+century force that arrives to fight, stays to win, integrates and supports joint and unified
+action partners, and helps build a better future. Tough, professional, highly trained
+Soldiers, guided by the Army Values and Warrior Ethos, remain our core advantage
+and ensure we can adapt to any mission. Our ability to anticipate change, learn, and
+innovate in the face of uncertainty will sustain our Army as America’s land force for
+decisive action.
+
+A VISION FOR TODAY AND TOMORROW
+
+3-1. The U.S. Army is the most lethal and capable ground combat force in history. It has proven this in
+multiple conflicts, across a broad spectrum of operations, in various locations around the world, defending
+the Nation and serving the American people well for over 240 years. The key to this success has been the
+skill and grit of the American Soldier, the quality of its leaders, the superiority of its equipment, and the
+ability of the Army—Regular Army, Army National Guard, and Army Reserve—to adapt to and dominate a
+complex and continuously changing environment as a member of the joint force.
+
+3-2. As we look ahead, competitors such as China and Russia will increasingly challenge the United States
+and our allies in Europe, the Middle East, and the Indo-Pacific region. At the same time, we should expect
+these countries’ arms, equipment, and tactics to be used against us by others, including threats such as North
+Korea and Iran, failed states, and terrorist groups. Our adversaries’ ambitions and the accelerating pace of
+technological change will create challenges and opportunities for the Army’s battlefield superiority.
+
+3-3. Meanwhile, the many demands on our Nation’s resources will put downward pressure on the defense
+budget in the future, forcing the Army to continue making difficult choices about how it spends valuable
+dollars to meet national military objectives and compelling us to become ever more efficient. A continued
+commitment to strengthening our alliances and building partnerships will help offset these challenges.
+
+ARMY MISSION
+
+3-4. The Army mission—our purpose—remains constant: to deploy, fight, and win our Nation’s wars by
+providing ready, prompt, and sustained land dominance by Army forces across the full spectrum of conflict
+as part of the joint force. The Army mission is vital to the nation because we are a Service capable of defeating
+enemy ground forces and indefinitely seizing and controlling those things an adversary prizes most—its land,
+its resources, and its population.
+
+31 July 2019 ADP 1 3-1
+
+
+Chapter 3
+
+3-5. Given the threats and challenges ahead, it is imperative the Army has a clear and coherent vision of
+where it wants to be in the coming years so that Army forces retain overmatch against all potential adversaries
+and remain capable of accomplishing our mission in the future. As such, the Army Vision, our future end
+state, states—
+
+The Army of 2028 will be ready to deploy, fight, and win decisively against any adversary,
+anytime and anywhere, in a joint, multi-domain, high-intensity conflict, while
+simultaneously deterring others and maintaining its ability to conduct irregular warfare.
+The Army will do this through the employment of modern manned and unmanned ground
+combat vehicles, aircraft, sustainment systems, and weapons, coupled with robust
+combined arms formations and tactics based on a modern warfighting doctrine and
+centered on exceptional Leaders and Soldiers of unmatched lethality.
+
+3-6. To achieve our vision, the Army must meet five objectives in the coming years:
+Man
+
+Organize.
+
+Train.
+
+Equip.
+
+Lead.
+
+3-7. The first objective is to man. This involves growing the Regular Army above 500,000 Soldiers, with
+associated growth in the National Guard and Army Reserve. The Army will meet this objective by recruiting
+and retaining high quality, physically fit, mentally tough Soldiers who can deploy, fight, and win decisively
+on any future battlefield. (See figure 3-1.)
+
+3-8. Organize is the second objective that ensures warfighting formations have sufficient infantry, armor,
+engineer, artillery, and air defense assets. Units from brigade through corps must also have the ability to
+conduct sustained ground and air intelligence, surveillance, and reconnaissance; electronic warfare; and
+cyberspace operations to shape the battlefield across all domains. Aviation, additional combat support, and
+robust logistic support must be readily available to units.
+
+3-9. The third objective is train. Effective training focuses on high-intensity conflict, with an emphasis on
+operating in dense urban terrain, in electronically degraded environments, and under constant surveillance.
+Training must be tough, realistic, iterative, and dynamic. Continuous movement, battlefield innovation, and
+combined arms maneuver with the joint force, allies, and partners must be its hallmarks. This training requires
+rapid expansion of our synthetic training environments and distributing simulations capabilities further down
+to the company level to significantly enhance Soldier and team lethality.
+
+3-10. Equip is the fourth objective. Equipping the Army means modernizing the force. First, the Army
+reforms the current acquisition system. Second, the Army unifies the modernization enterprise under a single
+command to focus the Army’s efforts on delivering the weapons, combat vehicles, sustainment systems, and
+equipment that Soldiers need when they need it. This modernization includes experimenting with and
+developing autonomous systems, artificial intelligence, and robotics to make Soldiers more effective and
+units less logistically dependent.
+
+3-11. The last objective is lead. The Army will develop smart, thoughtful, and innovative leaders of character
+who are comfortable with complexity and capable of operating from the tactical to the strategic level. We
+will build a new talent management-based personnel system that leverages the knowledge, skills, behaviors,
+and preferences of its officers and noncommissioned officers. This system, when coupled with more flexible
+career models, will enable the Army to better attract, identify, develop, and place these leaders to optimize
+outcomes for all.
+
+ADP 1 31 July 2019
+
+
+Ready to Fight, Prepared for the Future, Determined to Win
+
+Figure 3-1. Ready to deploy, fight, and win decisively
+
+3-12. To achieve and sustain these objectives given the uncertainty of future budgets, Army leaders
+continually assess everything we do. They identify lower value activities to discontinue and note ways to
+improve what we must do to free up time, money, and manpower for our top priorities. Trusting and
+empowering subordinate leaders facilitates both reform and greater performance.
+
+3-13. In all these efforts, we will ensure that our Soldiers, DA Civilians, and their Families enjoy the
+professional opportunities and quality of life they deserve. From the top down we must also remain
+committed to the Army Values. The Army is at its best when the total force works and fights as one team,
+and our Army Values, coupled with our Warrior Ethos, guide and serve us well as we face the challenges
+ahead.
+
+3-14. Since 1775, the U.S. Army has proven itself absolutely vital to protecting the American people,
+safeguarding the Nation, and advancing our interests abroad. This fact remains true today. Our ability to do
+so will be even more critical in the future as threats continue to emerge and evolve, becoming ever more
+dangerous and more complex. To remain ready to accomplish our mission of fighting and winning the
+Nation’s wars, the Army must fulfill the future Army vision. We are confident that with the right leadership,
+the proper focus, sufficient resources, and sustained effort the U.S. Army will achieve our vision, remain the
+world’s premier fighting force, and serve the Nation well for decades to come.
+
+31 July 2019 ADP 1 3-3
+
+
+This page intentionally left blank.
+
+
+Appendix A
+Our Army’s Legacy of Service
+
+The story of the United States Army is one of growth, adaptation, and change. The Army
+as an institution changes its organization, materiel, doctrine, and composition to cope with
+conflict and danger. For these reasons, ensuring that the history of the Army—both during
+combat and contingency operations and during periods of peace—is preserved and
+understood is fundamental to every Soldier, unit, and command.
+
+ATP 1-20
+
+THE ARMY: SACRIFICE AND VALUE TO THE NATION
+
+A-1. Since George Washington transformed an ill-equipped Army into a professional force at Valley Forge,
+American Soldiers have served the Nation by responding to national emergencies, defending its frontiers,
+protecting its growth, providing humanitarian assistance, enabling the joint force, working with multinational
+partners, and, most importantly, winning its wars. (See figure A-1 on page A-2.) No other profession demands
+the profound level of personal sacrifices required of our Soldiers and their Families. For American Soldiers,
+the most meaningful line of the Declaration of Independence is the sentence that closes the document: “for
+the support of this Declaration, with a firm reliance on the protection of divine Providence, we mutually
+pledge to each other our Lives, our Fortunes, and our sacred Honor.”
+
+A-2. Soldiers explored the Louisiana Purchase, fought to preserve the Union on the battlefields of the Civil
+War, and helped build the Panama Canal. They played a major part in winning two world wars, prevented
+the spread of communism during the Cold War, and defeated international aggressors in Korea and Kuwait.
+They deposed oppressive regimes in Afghanistan and Iraq, provided support to civil authorities at home
+during natural and man-made disasters, and remain in contact today to defeat violent extremist organizations
+while preparing to win future conflicts in an increasingly unstable world.
+
+THE ARMY FLAG
+
+A-3. The Army’s history is reflected in the 190 campaign streamers that adorn the Army flag. The Army
+flag honors all who served and are serving, reminding each American that our place today as the world’s
+premier land force was not achieved quickly or easily but built on sacrifices from the American Revolution
+through today.
+
+31 July 2019 ADP 1 A-1
+
+
+Appendix A
+
+Figure A-1. The enduring Army
+
+ESTABLISHING THE NATION
+
+A-4. The birth of the Army preceded the creation of the United States. The Revolutionary War molded the
+heritage of service and sacrifice that won our Nation’s freedom and established the Army’s unique
+relationship with its citizens today.
+
+REVOLUTIONARY WAR
+
+A-5. Following the initial engagements in Massachusetts, the Second Continental Congress established the
+American Continental Army on 14 June 1775. Eight more years of war followed.
+
+ee. 7S ee Cy! es a a
+
+A-6. At the close of the Battle of Saratoga, an American commander took the surrender of a British field
+army for the first time. The roots of the victory at Saratoga lay in the militias organized in the American
+colonies to provide for their common defense. The Continental Congress, using the militia concept as a
+foundation, officially ratified provisions to establish the Continental Army in June 1775 making it America’s
+oldest military Service. Between 1776 and 1780, the Continental Army and militias worked together as a
+total force to defend the American interior and develop new tactics. American forces lost a number of major
+engagements in this period, but they were able to maintain their presence in the field through their unwavering
+commitment to prevent the British forces from controlling key areas. In 1781, the mature Continental Army,
+commanded by General George Washington and supported by French allies, seized the initiative and
+maneuvered to a position of advantage that resulted in the ultimate defeat and surrender of the British at
+Yorktown. During the Revolutionary War, the Army earned the 16 campaign streamers listed in table A-1.
+
+ADP 1 31 July 2019
+
+
+Our Army’s Legacy of Service
+
+Table A-1. Revolutionary War streamers
+
+Boston Germantown e Monmouth Savannah
+
+Brandywine Guilford Court House e Princeton Ticonderoga
+
+Charleston Lexington e Quebec Trenton
+Cowpens Long Island e Saratoga Yorktown
+
+WAR OF 1812 — EXPANDING TERRITORY
+
+A-7. At the outbreak of conflict with the British, the U.S. Army was small, spread along the frontiers in
+small garrisons, and forced to expand quickly. Amateur officers leading poorly trained Soldiers struggled in
+the field against the British for much of the war. Eventually leaders such as Lieutenant Colonel Winfield
+Scott trained Army units capable of standing up to the British in combat on the Northern Frontier.
+
+A-8. Andrew Jackson used regulars and militia at New Orleans to crush the largest British army sent to
+North America. A combination of Regular Army, local militia, and volunteer formations successfully
+defended New Orleans from British regiments recently arrived from fighting on Napoleonic battlefields in
+Europe. The American victory at the Battle of New Orleans, coupled with naval successes, helped secure the
+independence of the young Nation and its expansion to the West. The lessons learned from this conflict
+solidified the need for a standing professional force with sufficient capability and capacity to meet the
+Nation’s needs. During the War of 1812, the Army earned the 6 campaign streamers listed in table A-2.
+
+Table A-2. War of 1812 streamers
+
+e Bladensburg e Chippewa e McHenry
+e Canada e Lundy’s Lane e New Orleans
+
+A-9. The Army gradually grew as it defended the national coastline and protected citizens moving into the
+frontier. The Army actively assisted Americans as they expanded westward by providing explorers to map
+new territories and engineers to build roads, dig canals, and improve navigation on waterways. The Army
+Corps of Engineers facilitated navigation along the inland waterways, allowing inexpensive travel and
+movement of goods using the Ohio, Mississippi, and Missouri Rivers and their tributaries. Simultaneously,
+the U.S. Army sustained its capability to mount combat operations.
+
+MEXICAN WAR
+
+A-10. In 1846, the Army fought Mexico and extended the nation’s borders to the Pacific Ocean. During the
+Mexican War, the Army showed it was capable of waging rapid and decisive campaigns. American Soldiers
+struck deep into the heart of Mexico and marched over land to seize the city of San Diego and claim California
+as a new territory. The war again demonstrated the need for the Regular Army to fight alongside militia
+forces. During the Mexican War, the Army earned the 10 campaign streamers listed in table A-3.
+
+Table A-3. Mexican War streamers
+
+e Buena Vista e Churubusco e Monterey e Resaca de la Palma
+e Cerro Gordo e Contreras e Palo Alto e Vera Cruz
+
+e Chapultepec e Molino del Rey
+
+PRESERVING THE NATION
+
+A-11. After the Mexican War, the United States continued to expand. As it expanded, Army forces fought to
+preserve the Nation and protect its citizens.
+
+31 July 2019 ADP 1 A-3
+
+
+Appendix A
+
+CIVIL WAR
+
+A-12. Starting in 1861, the Civil War tore the nation apart. The Army grew dramatically—in size, capability,
+and technological sophistication—during four years of war. Forced to wage war on a continental scale against
+superbly led opponents, Union forces developed skills in tactics, operational art, logistics, and inter-Service
+cooperation that rivaled and sometimes exceeded the European powers.
+
+A-13.On the last day of the Battle of Gettysburg, General Robert E. Lee ordered Major General George
+Pickett to attack strong Union defenses on a ridge almost a mile way. About an hour later, after Pickett’s
+charge had failed to break the Union line, close to 7,000 Americans in blue and gray uniforms lay dead or
+wounded on the ground. The battle, a Union victory, was the last time the Confederate forces seriously
+threatened the North. The war, which raged on for another two years, had divided the U.S. Army and the
+Nation. To enforce the war’s decision and to consolidate battlefield gains, U.S. Army forces remained in the
+South for 12 years after 1865 as part of Reconstruction. During the Civil War, the U.S. Army earned the 25
+campaign streamers listed in table A-4.
+
+Table A-4. Civil War streamers
+
+Antietam Cold Harbor Mississippi River Shiloh
+Appomattox Franklin Murfreesborough Spotsylvania
+Atlanta Fredericksburg Nashville Sumter
+
+Bull Run Gettysburg Peninsula Valley
+Chancellorsville Henry and Donelson Petersburg Vicksburg
+Chattanooga Manassas Shenandoah Wilderness
+Chickamauga
+
+INDIAN WARS
+
+A-14. The Army fought against Native Americans until the beginning of the 20th century. In these bitter
+conflicts, Army forces fought some of the finest individual warriors it ever faced. Army forces fought with
+all-volunteer forces, including all-black cavalry and infantry regiments. Serving under the flag of the United
+States, Native American scouts became vital members of Army units as the wars moved onto the Great Plains.
+During the Indian Wars, the Army earned the 14 campaign streamers listed in table A-5.
+
+Table A-5. Indian Wars streamers
+
+Apaches Commanches e Modocs e Seminoles
+Bannocks Creeks e Nez Perces e Tippecanoe
+
+Black Hawk Little Big Horn e Pine Ridge e Utes
+Cheyennes Miami
+
+BECOMING A WORLD POWER
+
+A-15. By the end of the 19th century, the United States had expanded into a world power. To meet the
+requirements of greater U.S. interests around the world, the Army developed expeditionary abilities and
+campaign qualities.
+
+WAR WITH SPAIN
+
+A-16. The Spanish-American War marked the first time the U.S. Army sent forces into combat outside North
+America. The Spanish-American War of 1898 exposed serious deficiencies within the Army. Mobilization,
+deployment, and sustainment were marred by difficulties. However, Spain lacked the resources to counter
+
+A-4 ADP 1 31 July 2019
+
+
+Our Army’s Legacy of Service
+
+U.S. Army forces. After defeating Spanish forces in Cuba and the Philippines, the Army accepted new
+responsibilities as a global expeditionary force and initiated major reforms to improve combat readiness.
+
+A-17. The Army fielded expeditionary forces in joint operations with the Navy, deploying units against the
+Spanish in Cuba, Puerto Rico, and the Philippines. In the Philippines, American Soldiers seized the Philippine
+capital of Manila after U.S. Navy ships had isolated the besieged Spanish forces inside the city. Army forces
+remained for several years in the Philippines where they put down insurrections that threatened American
+control of the islands and facilitated the establishment of a functional government. Despite the difficulties of
+governing new territories and countering insurgencies, the United States had now become a world power and
+the Army played a key role in achieving that status. During the war with Spain, the Army earned the 3
+campaign streamers listed in table A-6.
+
+Table A-6. War with Spain streamers
+
+e Manila e Puerto Rico e Santiago
+
+CHINA RELIEF EXPEDITION
+
+A-18. Now almost forgotten, Soldiers fought in China during the long period of strife at the beginning of the
+20th century. During the China Relief Expedition, the Army earned the 3 campaign streamers listed in
+table A-7.
+
+Table A-7. China Relief Expedition streamers
+
+e Peking e Tientsin e Yang-Tsun
+
+PHILIPPINE INSURRECTION
+
+A-19. After seizing the Philippines from Spain, Soldiers fought a bloody counterinsurgency in the jungles of
+that archipelago. During the Philippine Insurrection, the Army earned the 11 campaign streamers listed in
+table A-8.
+
+Table A-8. Philippine Insurrection streamers
+
+e Cavite e Laguna de Bay e Mindanao e Tarlac
+
+e lloilo e Malolos e San Fabian e Zapote River
+
+e Jolo e Manila e San Isidro
+
+MEXICAN EXPEDITION
+
+A-20. In 1916, when internal conflict in Mexico spread across the border into the United States, Army units
+deployed on the border and moved into northern Mexico, clashing with Mexican troops and irregular forces.
+During the Mexican Expedition, the Army earned the Mexico campaign streamer as noted in table A-9.
+
+Table A-9. Mexican Expedition streamer
+
+e Mexico
+
+WORLD WARI
+
+A-21. The First World War forced the small and lightly equipped Army to expand to unprecedented size.
+Millions of Americans volunteered or were drafted to create the Allied Expeditionary Force (also known as
+the AEF). By 1918, the Allied Expeditionary Force became a force capable of defeating the German army.
+
+31 July 2019 ADP 1 A-5
+
+
+Appendix A
+
+M.E.U,S,E.-A.R.G.O,N.N,E,... 1.91.8,
+
+A-22. The Army’s most important victory in the war was the 1918 offensive campaign in the Meuse-Argonne
+region of France. That action saw an American force of over halfa million men attack well-defended German
+trench lines. The brutal ground combat lasted for weeks, but 14 U.S. divisions pushed through some of the
+strongest defensive positions on the Western Front and successfully seized their objectives. The Meuse-
+Argonne Offensive was the largest battle in American history up to that time. It took a huge toll in American
+lives with over a hundred thousand men killed or wounded. The victory showed that American Soldiers and
+their leaders had the ability to organize for large-scale combat operations and win battles against the best
+armies in the world. During World War I, the Army earned the 13 campaign streamers listed in table A-10.
+
+Table A-10. World War | streamers
+Aisne e Lys e Oise-Aisne e St. Mihiel
+
+Aisne-Marne e Meuse-Argonne e Somme Defensive e Vittoria Veneto
+Cambrai e Montdidier-Noyon e Somme Offensive e Ypres-Lys
+
+Champagne-Marne
+
+WORLD WAR II
+
+A-6
+
+A-23. The war against Nazi Germany, fascist Italy, and Imperial Japan was the largest the world has ever
+seen. In a few short years, the U.S. Army grew from a few hundred thousand Soldiers to a force comprising
+millions. The United States fielded the largest Army in American history and fought simultaneously in Asia
+and the Pacific, North Africa, and Europe in a series of campaigns unprecedented in scope and scale. It was
+enabled throughout the war by the largest and most capable air and naval forces ever fielded by a single
+
+nation.
+
+A-24. The 6th of June 1944 will remain one of the most important dates in the history of the U.S. Army. On
+that day, 50,000 U.S. Soldiers—as part of a great Allied effort—landed at Normandy in France and fought
+courageously against a German foe committed to preventing them from getting off the invasion beaches.
+German resistance was intense, but officers and noncommissioned officers inspired their men to fight through
+the withering fire and seize a firm beachhead on the European continent. The victory represented an enormous
+joint and multinational effort and remains the largest amphibious assault ever conducted. After 6 June, more
+than a million Soldiers landed on the beaches and pushed inland, first to liberate France and then to cross the
+Rhine into the Nazi homeland. During World War II, the Army earned the 38 campaign streamers listed in
+table A-11.
+
+A-25. World War II solidified the need for joint, multinational, and government agency interdependence to
+achieve a unified effort. General George C. Marshall’s experience with the challenges of occupying foreign
+countries, self-governance, joint interdependence, and coalition building helped establish stable post-war
+nation states.
+
+ADP 1 31 July 2019
+
+
+Our Army’s Legacy of Service
+
+Table A-11. World War Il streamers
+
+Air Offensive, Europe China Offensive Northern Solomons
+Air Offensive, Japan East Indies Papua
+
+Aleutian Islands Eastern Mandates Philippine Islands
+Algeria—French Morocco Egypt—Libya Po Valley
+Antisubmarine Guadalcanal Rhineland
+
+Anzio India-Burma Rome-Arno
+
+Ardennes-Alsace Leyte Ryukyus
+
+Bismarck Archipelago Luzon Sicily
+
+Burma Naples-Foggia Southern France
+Central Burma New Guinea Southern Philippines
+Central Europe Normandy Tunisia
+
+Central Pacific Northern Apennines Western Pacific
+China Defensive Northern France
+
+KOREAN WAR
+
+A-26.In the years that followed World War II, the United States focused on containing the spread of
+communism, in a multidecade conflict remembered as the Cold War. The United States recognized the
+demand for a large standing Army as the Nation became committed to deterring and sometimes fighting
+communist forces as part of a joint and multinational force across the globe. Moreover, this period saw the
+Army more formally develop into the current Total Army.
+
+A-27. In 1950, just five years after World War II ended, the U.S. went to war again. In the first real campaign
+of the Cold War, American Soldiers rushed to South Korea to stem the tide of the invading North Korean
+forces. Ill prepared and at low levels of readiness, the first Army forces deployed to South Korea gave up
+ground as North Korean forces seized much of South Korea. Fighting valiantly in the Pusan Perimeter while
+supported by other Services, Army forces improvised a defense that prevented North Koreans from seizing
+the entire Korean Peninsula.
+
+A-28. As part of a larger United Nations force, U.S. Army forces counterattacked, forcing the North Koreans
+back into their territory by October 1950. Intervention by the Communist Chinese People’s Liberation Army
+that month pushed United Nations forces back into South Korea. What was a fluid campaign of maneuver
+became a stalemate characterized by tough combat in unforgiving conditions. When a ceasefire ended the
+hostilities in 1953, the Korean Peninsula remained divided. American Soldiers have remained in South Korea
+ever since to deter further aggression from North Korea. America’s continued presence in South Korea
+contributed to the emergence of South Korea as a democratic and powerful military and economic ally in
+Asia. During the Korean War, the Army earned 10 campaign streamers listed in table A-12.
+
+Table A-12. Korean War streamers
+
+e CCF Intervention e Korea Summer 1953 e UN Defensive
+
+e CCF Spring Offensive e Second Korean Winter e UN Offensive
+
+e First UN Counteroffensive e Third Korean Winter e UN Summer-Fall Offensive
+
+e Korea Summer-Fall 1952
+CCF Communist Chinese Forces UN United Nations
+
+31 July 2019 ADP 1 A-7
+
+
+Appendix A
+
+VIETNAM CONFLICT
+
+A-29. A decade after the armistice in Korea, Army forces fought another Cold War campaign in Asia.
+American involvement in South Vietnam had increased since the late 1950s in response to escalating pressure
+from Communist North Vietnam. Operations in Vietnam saw many innovations to combined arms operations
+including the emergence of air mobility and air-ground operations, special operations and conventional force
+interdependence, and decentralized counterinsurgency operations. These operations also highlighted the
+challenges of a conscript force reliant on individual replacement to sustain the campaign.
+
+SAS FI CISHSENER SS SSH = = Si NESt Pre Revers)
+
+A-30. The U.S. military presence in South Vietnam gradually grew to over half a million Soldiers. They—
+along with South Vietnamese soldiers, seven other multinational forces, and government agencies—
+conducted counterinsurgency operations against Viet Cong guerillas and mounted conventional combat
+operations against North Vietnamese regulars. Success in these efforts led U.S. commanders to believe that
+they and the South Vietnamese forces had made progress toward the final defeat of the threat. In January
+1968, however, enemy forces launched the Tet Offensive across South Vietnam. U.S. Soldiers and their South
+Vietnamese partners ultimately defeated this large-scale attack, destroying the Viet Cong as an effective
+combat force. Over the next three years, the United States slowly turned over the fight to the South
+Vietnamese in preparation for the withdrawal of all military forces. By 1973, the United States had withdrawn
+all Army forces from Vietnam. During the Vietnam War, the Army earned the 17 campaign streamers listed
+in table A-13.
+
+Table A-13. Vietnam Service streamers
+
+Vietnam Advisory Vietnam Counteroffensive, Phase VI
+Vietnam Cease Fire Vietnam Counteroffensive, Phase VII
+Consolidation | Vietnam Defense
+
+Consolidation II Sanctuary Counteroffensive
+Vietnam Counteroffensive Vietnam Summer-Fall 1969
+
+Vietnam Counteroffensive, Phase II Tet 69/Counteroffensive
+
+Vietnam Counteroffensive, Phase III Tet Counteroffensive
+
+Vietnam Counteroffensive, Phase IV Vietnam Winter-Spring 1970
+
+Vietnam Counteroffensive, Phase V
+
+ARMED FORCES EXPEDITIONS
+
+A-8
+
+A-31. The Army faced increasing Soviet threats in Europe and communist global expansion throughout the
+Cold War. In 1965, the Army, with support from elements of the Organization of American States, occupied
+the Dominican Republic to prevent a communist takeover of the country.
+
+A-32. After the Vietnam War, Army leaders turned to rebuilding and reinvigorating the force. Most
+importantly, the Army became a smaller all-volunteer force made up of professional Soldiers highly trained
+and equipped with the most modern weapons. Armed Forces expeditions conducted during this period
+included combat operations in Grenada in 1983 and the forcible removal of the dictator Manuel Noriega in
+Panama in 1989. These operations highlighted the need for the Army to continue to improve joint operations.
+During these Armed Forces expeditions, the Army earned the 4 campaign streamers listed in table A-14.
+
+Table A-14. Armed Forces Expeditions streamers
+
+e Dominican Republic e Panama
+e Grenada e Somalia
+
+ADP 1 31 July 2019
+
+
+Our Army’s Legacy of Service
+
+SOUTHWEST ASIA
+
+LIBERATION AND DEFENSE OF KUWAIT
+
+A-33. A crisis in 1990 erupted following the Iraqi leader Saddam Hussein’s seizure of Kuwait. Army forces
+mobilized and deployed 500,000 Soldiers equipped with advanced equipment as part of an international
+coalition that crushed Hussein’s forces in one of the most lopsided wars in history. OPERATION DESERT
+STORM cemented the interdependence of the components within the Army to the joint force. As part of the
+Total Army, the Army National Guard and Army Reserve provided unique capabilities essential to the
+success of the coalition forces. During actions in southwest Asia, the Army earned the 3 campaign streamers
+listed in table A-15.
+
+Table A-15. Southwest Asia Service streamers
+
+e Southwest Asia Cease Fire e Defense of Saudi Arabia e Liberation and Defense of Kuwait
+
+BOSNIA AND KOSOVO
+
+A-34. Beginning in December 1995, Army forces participated in the North Atlantic Treaty Organization-led
+effort to end ethnic cleansing in Bosnia, formerly part of Yugoslavia. Army units enforced the Dayton
+Accords as part of the Implementation Force (known as IFOR) in 1995-1996 and then as part of the
+Stabilization Force (known as SFOR) from 1997 until 2004, ending the violence and restoring order. The
+Army’s ability to project credible force and disciplined professionalism established the conditions for an
+enduring political solution.
+
+2 2 Oe ee 2 2 2 2 2 Oe ee ek
+
+A-35. In 1999, ethnic cleansing in the former Yugoslavia led to the commitment of Army forces in a peace
+enforcement operation in the province of Kosovo. During operations in Kosovo, the Army earned the 2
+campaign streamers shown in table A-16.
+
+Table A-16. Kosovo Campaign streamers
+e Kosovo Air Campaign e Kosovo Defense Campaign
+
+WAR ON TERRORISM
+
+A-36. In the aftermath of the attacks of September 11 in 2001, Army forces deployed to Afghanistan and
+eventually Iraq. American-led forces drove Saddam Hussein and the Taliban from power in fast moving
+campaigns noted for the relatively small numbers of troops and the sophistication of joint operations.
+American forces, alongside multinational forces, continue to conduct counterterrorism and stability
+operations in both Afghanistan and Iraq to deny terrorist safe havens while promoting regional stability.
+
+A-37. The 14 campaign streamers currently associated with the War on Terrorism are listed in table A-17 on
+page A-10.
+
+31 July 2019 ADP 1 A-9
+
+
+Appendix A
+
+Table A-17. War on Terrorism streamers
+
+Abeyance Iraqi Governance e National Resolution
+Consolidation | Iraqi Sovereignty e New Dawn
+
+Consolidation II Iraqi Surge e Transition |
+Consolidation III Liberation of Afghanistan e Transition of Iraq
+e Global War on Terrorism Liberation of Iraq
+
+See AR 840-10 and the Institute of Heraldry Website for information about Army campaign streamers. (See
+figure A-2.)
+
+Figure A-2. The Army through the years
+
+HUMANITARIAN ASSISTANCE
+
+A-38. Although not considered a battle or a campaign, numerous U.S. Army units have participated in many
+humanitarian assistance efforts both abroad and within the homeland. These efforts include, but are not
+limited to, support to domestic hurricane relief such as the Hurricane Katrina response, support to domestic
+firefighting efforts, and other weather-related assistance efforts after floods and blizzards. They also include
+international global tsunami relief such as OPERATION UNIFIED ASSISTANCE in the Indian Ocean;
+international medical emergencies; and earthquake relief such as OPERATION TOMODACHI in Japan.
+
+A-10 ADP 1 31 July 2019
+
+
+vi
+
+1-1
+
+1-1
+
+1-2
+
+1-2
+
+1-3
+
+1-4
+1-5
+
+2-1
+
+2-5
+
+2-6
+
+31 July 2019
+
+Source Notes
+
+This section lists sources by page number.
+
+Figure intro-1 photos available at
+https://www.flickr.com/photos/soldiersmediacenter/54 18579692 and
+http://www.history.army.mil/html/reference/normandy/pictures.html.
+
+“TY Jou don’t dictate ...”: General Mark A. Welsh II, “State of the Air Force Press Briefing
+by Secretary James and General Welsh in the Pentagon Briefing Room,” U.S. Department of
+Defense News Transcript, 15 January 2015.
+https://dod.defense.gov/News/Transcripts/Transcript-View/Article/606995/state-of-the-air-
+force-press-briefing-by-secretary-james-and-general-welsh-in-t/,
+
+“{T he real object...”: Elihu Root, The Military and Colonial Policy of the United States:
+Addresses and Reports (Cambridge, MA: Harvard University Press, 1916), 351.
+
+“The ultimate determinant ...”: Rear Admiral J. C. Wylie, Military Strategy, A General
+Theory of Power Control (Annapolis, MD: Naval Institute Press, 2014), 72.
+
+Figure 1-1 photos available at
+
+https://www.flickr.com/photos/soldiersmediacenter/8743376241,
+https://www.flickr.com/photos/soldiersmediacenter/15227313027,
+http://www.history.army.mil/html/reference/normandy/pictures.html, and
+https://www.flickr.com/photos/soldiersmediacenter/98 19768066.
+
+Figure 1-2 photos available at
+https://www.flickr.com/photos/soldiersmediacenter/95 17310632,
+https://www.flickr.com/photos/soldiersmediacenter/9 144023122/,
+https://www.army.mil/yearinphotos/201 1/september.html#photol0, and
+https://www.flickr.com/photos/soldiersmediacenter/534585299.
+
+Figure 1-3 photo available at https://www. flickr.com/photos/usaasc/863 1806342.
+
+“You may fly ...”: T. R. Fehrenbach, This Kind of War: The Classic Korean War History
+(Lincoln, NE: Potomac Books, Inc., 2008), 290.
+
+“To be prepared ...”: George Washington, “George Washington to the United States Senate
+and House of Representatives,” National Archives Founders Online, 8 January 1790.
+http://founders.archives.gov/documents/Washington/05-04-02-0361.
+
+Figure 2-1 photos available at
+https://www.flickr.com/photos/soldiersmediacenter/26432670475 and
+https://www.flickr.com/photos/soldiersmediacenter/15 146979780.
+
+Figure 2-2 photos available at
+https://www.flickr.com/photos/soldiersmediacenter/16477868430 and
+https://www. flickr.com/photos/39955793(@N07/5619372893.
+
+Figure 2-3 photos available at
+
+http://www. ibiblio.org/hyperwar/OnlineLibrary/photos/events/wwii-eur/normandy/nor4o.htm
+and https://www.flickr.com/photos/dvids/5805 152453/in/photolist-9QY Vzp.
+
+Figure 2-4 photo available at
+https://www.flickr.com/photos/soldiersmediacenter/14165572918/.
+
+Figure 2-5 photo available at https://www.dvidshub.net/image/477262/partnered-operations-
+secure-southern-laghman.
+
+“An order should not...” 1905 Field Service Regulation.
+http://cgsc.cdmhost.com/cdmm/ref/collection/p4013coll9/id/122.
+
+ADP 1 Source Notes-1
+
+
+Source Notes
+
+2-10 “If subordinates are deprived...”: Admiral E. J. King, CINCLANT Serial 053, 21 January
+1941. https://www.usnwe.edu/Portals/16/PCO%20Alumni%20Content/ADM-King-Serial-
+053.pdf?ver=2017-10-23-121408-920.
+
+3-1 “TT ]hrough all this ...”: General Douglas MacArthur, “MacArthur’s Address to the Corps,”
+12 May 1962. http://www.west-point.org/real/macarthur_address.html.
+
+3-1 paragraphs 3-4—3-6: Chief of Staff of the Army Mark A. Milley and Secretary of the Army
+Mark T. Esper, “The Army Vision,” 5 June 2018.
+https://www.army.mil/e2/downloads/rv7/vision/the_army_vision.pdf.
+
+3-3 Figure 3-1 photos available at https://www.dvidshub.net/image/2150105/urban-training-
+exercise and https://www.dvidshub.net/image/889843/women-serving-uruzgan-province-
+afghanistan.
+
+A-l “The story of ...”: ATP 1-20, Military History Operations (Washington, DC: Government
+Printing Office, 2014), 2-1.
+
+A-l “for the support...”: The Declaration of Independence. https://www.archives.gov/founding-
+docs/declaration-transcript.
+
+A-2 Figure A-1 photo available at https://www.dvidshub.net/image/632045.
+
+A-2 through A-12 Campaign streamer images from the Institute of Heraldry. https://tioh.army.mil.
+Historical research from the United States Army Center of Military History.
+https://history.army.mil/index. html.
+
+A-10 — Figure A-2 photo available at
+https://www. flickr.com/photos/soldiersmediacenter/3613912509.
+
+Source Notes-2 ADP 1 31 July 2019
+
+
+Glossary
+
+The glossary lists acronyms and terms with joint and Army definitions.
+
+SECTION I - ACRONYMS AND ABBREVIATIONS
+
+ADP Army doctrine publication
+AR Army regulation
+ATP Army techniques publication
+DA Department of the Army
+DODD Department of Defense directive
+DSCA defense support of civil authorities
+FM field manual
+JP joint publication
+US. United States
+USC United States Code
+
+SECTION Il — TERMS
+
+combined arms
+
+The synchronized and simultaneous application of arms to achieve an effect greater than if each
+element was used separately or sequentially. (ADP 3-0)
+
+defense support of civil authorities
+
+Support provided by United States Federal military forces, Department of Defense civilians,
+Department of Defense contract personnel, Department of Defense component assets, and National
+Guard forces (when the Secretary of Defense, in coordination with the governors of the affected States,
+elects and requests to use those forces in Title 32, United States Code, status) in response to requests
+for assistance from civil authorities for domestic emergencies, law enforcement support, and other
+domestic activities, or from qualifying entities for special events. (DODD 3025.18)
+
+landpower
+The ability—by threat, force, or occupation—to gain, sustain, and exploit control over land, resources,
+and people. (ADP 3-0)
+
+leadership
+The activity of influencing people by providing purpose, direction, and motivation to accomplish the
+mission and improve the organization. (ADP 6-22)
+
+mission command
+(Army) The Army’s approach to command and control that empowers subordinate decision making
+and decentralized execution appropriate to the situation. (ADP 6-0)
+
+security cooperation
+
+All Department of Defense interactions with foreign security establishments to build security
+relationships that promote specific United States security interests, develop allied and partner nation
+military and security capabilities for self-defense and multinational operations, and provide United
+States forces with peacetime and contingency access to allied and partner nations. (JP 3-20)
+
+31 July 2019 ADP 1 Glossary-1
+
+
+Glossary
+
+unified action
+The synchronization, coordination, and/or integration of the activities of governmental and
+nongovernmental entities with military operations to achieve unity of effort. (JP 1)
+unified action partners
+
+Those military forces, governmental and nongovernmental organizations, and elements of the private
+sector with whom Army forces plan, coordinate, synchronize, and integrate during the conduct of
+operations. (ADP 3-0)
+
+unified land operations
+
+The simultaneous execution of offense, defense, stability, and defense support of civil authorities
+across multiple domains to shape operational environments, prevent conflict, prevail in large-scale
+ground combat, and consolidate gains as part of unified action. (ADP 3-0)
+
+Glossary-2 ADP 1 31 July 2019
+
+
+References
+
+All websites accessed on 6 June 2019.
+
+REQUIRED PUBLICATIONS
+These documents must be available to the intended users of this publication.
+DOD Dictionary of Military and Associated Terms. June 2019.
+ADP 1-02. Terms and Military Symbols. 14 August 2018.
+
+RELATED PUBLICATIONS
+
+These documents contain relevant supplemental information.
+
+JOINT PUBLICATIONS
+
+Most Department of Defense issuances are available at https://www.esd.whs.mil/DD/. Most joint
+publications are available at https://www.jcs.mil/Doctrine/Joint-Doctine-Pubs/.
+
+DODD 3025.18. Defense Support of Civil Authorities (DSCA). 29 December 2010.
+
+DODD 5100.01. Functions of the Department of Defense and Its Major Components.
+21 December 2010.
+
+JP 1. Doctrine for the Armed Forces of the United States. 25 March 2013.
+JP 3-0. Joint Operations. 17 January 2017.
+JP 3-20. Security Cooperation. 23 May 2017.
+
+ARMY PUBLICATIONS
+Most Army doctrinal publications are available online at https://armypubs.army.mil/.
+ADP 3-0. Operations. 31 July 2019.
+ADP 6-0. Mission Command: Command and Control of Army Forces. 31 July 2019.
+ADP 6-22. Army Leadership. 31 July 2019.
+AR 840-10. Flags, Guidons, Streamers, Tabards, and Automobile and Aircraft Plates. 15 June 2017.
+ATP 1-20. Military History Operations. 09 June 2014.
+FM 27-10. The Law of Land Warfare. 18 July 1956.
+
+OTHER PUBLICATIONS
+The Constitution of the United States. http://www.archives.gov/exhibits/charters/constitution.html.
+
+The Declaration of Independence.
+http://www.archives.gov/exhibits/charters/declaration_transcript.html.
+
+Fehrenbach, T. R. This Kind of War: The Classic Korean War History. Lincoln, NE: Potomac Books,
+Inc., 2008.
+
+Field Service Regulation. Washington, DC: Government Printing Office, 1905.
+http://cgsc.cdmhost.com/cdim/ref/collection/p4013coll9/id/122.
+
+King, E. J. CINCLANT Serial 053.21 January 1941.
+https://www.usnwe.edu/Portals/16/PCO%20Alumni%20Content/ADM-King-Serial-
+053.pdf?ver=2017-10-23-121408-920.
+
+31 July 2019 ADP 1 References-1
+
+
+References
+
+MacArthur, Douglas. “MacArthur’s Address to the Corps.” 12 May 1962. http://www. west-
+point.org/real/macarthur_address.html.
+
+Milley, Mark A. and Mark T. Esper. “The Army Vision.” 5 June 2018.
+https://www.army.mil/e2/downloads/rv7/vision/the_army_vision.pdf.
+
+National Military Strategy of the United States of America. 2015.
+http://www.jcs.mil/Portals/36/Documents/Publications/2015 National Military Strategy.pdf.
+
+Root, Elihu. The Military and Colonial Policy of the United States: Addresses and Reports.
+Cambridge, MA: Harvard University Press, 1916.
+
+State of the Air Force press briefing by Secretary James and General Welsh in the Pentagon Briefing
+Room. 25 January 2015. https://dod.defense.gov/News/Transcripts/Transcript-
+View/Article/606995/state-of-the-air-force-press-briefing-by-secretary-james-and-general-
+welsh-in-t/.
+
+Washington, George. “George Washington to the United States Senate and House of Representatives,”
+National Archives Founders Online. 8 January 1790.
+http://founders.archives.gov/documents/Washington/05-04-02-0361.
+
+Wylie, J. C. Military Strategy, A General Theory of Power Control. Annapolis, MD: Naval Institute
+Press, 2014.
+
+UNITED STATES LAW
+Most acts and public laws are available at http://uscode.house.gov/.
+Title 10, United States Code. Armed Forces.
+Title 22, United States Code. Foreign Relations and Intercourse.
+Title 32, United States Code. National Guard.
+Title 50, United States Code. War and National Defense.
+Uniform Code of Military Justice. Available at http:/(www.gpo.gov/fdsys.
+
+WEB SITES
+
+Army photos. Available at http://www.flickr.com/photos/soldiersmediacenter/ and
+www.defenseimagery.mil.
+
+The Institute of Heraldry. Available at https://tioh.army.mil/default.aspx.
+
+The National Archives. Available at https://www.archives.gov.
+
+United States Army Center of Military History. Available at https://history.army.mil/index.html.
+
+United States Code. Available at http://uscode.house.gov/.
+
+RECOMMENDED READINGS
+
+“39th Chief of Staff of the Army Initial Message to the Army.” August 2015.
+http://www.army.mil/article/154803/39th_ Chief of Staff Initial Message to the Army/.
+
+Army Strategic Planning Guidance. 2014.
+http://www.g8.army.mil/pdf/Army Strategic Planning Guidance2014.pdf.
+
+CSA ’s National Guard Association of the United States Speech.
+http://www.army.mil/article/155581/Sept__11 2015 CSA_s National Guard Associati
+on_of the United States _speech/.
+
+Stewart, Richard W., ed. American Military History. Vol. I, The United States Army and the Forging of
+a Nation, 1775-1917. Washington, DC: Center of Military History, United States Army,
+2010. Available at http://www.history.army.mil/books/AMH-V 1/index.htm.
+
+Stewart, Richard W., ed. American Military History. Vol. 2, The U.S. Army in a Global Era, 1917—
+2003. Washington, DC: Center of Military History, United States Army, 2010. Available at
+http://www.history.army.mil/books/AMH-V2/index.htm.
+
+References-2 ADP 1 31 July 2019
+
+
+References
+
+Wilson, John B. U.S. Army Campaign Streamers: Colors of Courage Since 1775. Arlington, VA:
+Institute of Land Warfare, The Association of the United States Army, 2009.
+
+PRESCRIBED FORMS
+
+This section contains no entries.
+
+REFERENCED FORMS
+
+Unless otherwise indicated, DA forms are available on the Army Publishing Directorate website at
+https://armypubs.army.mil/.
+
+DA Form 2028. Recommended Changes to Publications and Blank Forms.
+
+31 July 2019 ADP 1 References-3
+
+
+This page intentionally left blank.
+
+
+ADP-1
+31 July 2019
+
+By Order of the Secretary of the Army:
+
+MARK A. MILLEY
+General, United States Army
+Chief of Staff
+
+Official:
+
+‘KATHLEEN S. MILLER
+Administrative Assistant
+to the Secretary of the Army
+1919001
+
+DISTRIBUTION:
+Active Army, Army National Guard, and United States Army Reserve: To be distributed in
+accordance with the initial distrubution number (IDN) 110510, requirements for ADP-1.
+
+
+This page intentionally left blank.
+
+
+This page intentionally left blank.
+
+
+This page intentionally left blank.
+
+
+
+

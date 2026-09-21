@@ -11,7 +11,12 @@ def embed(texts: list[str], model: str = "nomic-embed-text") -> list[list[float]
 
     # Embed each text in the list using Ollama's embedding model
     response = requests.post(f"{OLLAMA_HOST}/api/embed", json={"model": model, "input": texts})
-    response.raise_for_status()  # Raise an exception if the request failed
+    if not response.ok:
+        # raise_for_status() alone hides Ollama's actual error message --
+        # surface it so a bad request is debuggable instead of a bare 400.
+        raise requests.exceptions.HTTPError(
+            f"{response.status_code} error from Ollama /api/embed: {response.text[:500]}"
+        )
     return response.json()["embeddings"]  # Return the list of embeddings from the response
 
 # produces the mentor's response text to a user question
