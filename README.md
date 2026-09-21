@@ -15,22 +15,28 @@ Pi 5; currently developed and tested on macOS.
 ## Architecture
 
 ```
-docs_raw/*.txt --> chunker.py --> Chunk objects (schema.py)
-                                       |
-                                       v
-                               vectorstore.py (Chroma, on-disk)
-                                       |
-                       question --> query --> top-k chunks
-                                       |
-                                       v
-                                 mentor.py
-                     (renders retrieved block deterministically,
-                      then calls Ollama for mentor commentary)
-                                       |
-                        -------------------------------
-                        |                             |
-                   src/main.py                   src/app.py
-                 (terminal CLI)              (local web GUI, Flask)
+Army Pubs/*.pdf --> pdf_to_text.py / ocr_pdf_to_text.py --> docs_raw/*.txt
+                                                                  |
+                                                                  v
+                                                            chunker.py
+                                                                  |
+                                                                  v
+                                                Chunk objects (schema.py)
+                                                                  |
+                                                                  v
+                                              vectorstore.py (Chroma, on-disk)
+                                                                  |
+                                          question --> query --> top-k chunks
+                                                                  |
+                                                                  v
+                                                            mentor.py
+                                        (renders retrieved block deterministically,
+                                         then calls Ollama for mentor commentary)
+                                                                  |
+                                                   -------------------------------
+                                                   |                             |
+                                              src/main.py                   src/app.py
+                                            (terminal CLI)              (local web GUI, Flask)
 ```
 
 Both the CLI and the web GUI are thin callers of the same `mentor.ask()`
@@ -50,6 +56,9 @@ ollama pull nomic-embed-text     # embedding model
 ollama pull llama3.2:3b          # generation model
 ```
 
+The doctrine text is already committed under `docs_raw/` -- ingest it
+once (see below) and you're ready to ask questions.
+
 ## Usage
 
 ### Web GUI (recommended)
@@ -67,26 +76,72 @@ offline.
 ```bash
 python3 src/main.py check        # confirms Ollama is reachable
 
-python3 src/main.py ingest docs_raw/sample.txt \
-  --doc-id AR670-1 \
-  --title "Wear and Appearance of Army Uniforms and Insignia" \
-  --url "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN30964-AR_670-1-000-WEB-1.pdf"
+# one-time: ingest the full doctrine set (see Doctrine library below)
+./scripts/ingest_all.sh
 
 python3 src/main.py ask "what's the fingernail standard for females"
 ```
 
-## Adding doctrine
+## Doctrine library
 
-1. Pull a doctrine PDF from [armypubs.army.mil](https://armypubs.army.mil).
-2. Extract its text to a `.txt` file under `docs_raw/` (manual copy-paste
-   or `pdftotext` work for now -- section-structure-preserving PDF
-   extraction is a later improvement, not yet built).
-3. Ingest it with `main.py ingest` (see above), citing the real source
-   URL and pull date.
+22 U.S. Army doctrine publications, focused on Army ROTC fundamentals
+(appearance, drill, Ranger Challenge events, tactics) with some broader
+Army-wide context. All public release, unclassified, sourced from
+[armypubs.army.mil](https://armypubs.army.mil).
 
-The chunker splits on Army paragraph-header style (`3-4.`, `3-5.`, etc.)
-via `SECTION_HEADER_RE` in `chunker.py` -- it'll need widening as
-different doctrine documents break its current narrow assumption.
+| Doc ID | Title |
+|---|---|
+| ADP 1 | The Army |
+| ADP 2-0 | Intelligence |
+| ADP 3-0 | Operations |
+| ADP 6-22 | Army Leadership and the Profession |
+| AR 25-2 | Army Cybersecurity |
+| AR 600-25 | Salutes, Honors, and Visits of Courtesy |
+| AR 670-1 | Wear and Appearance of Army Uniforms and Insignia |
+| ATP 3-09.30 | Observed Fires |
+| ATP 3-12.3 | Electromagnetic Warfare Techniques |
+| ATP 3-21.8 | Infantry Platoon and Squad |
+| ATP 3-34.40 | General Engineering |
+| ATP 4-90 | Brigade Support Battalion |
+| FM 2-0 | Intelligence |
+| FM 3-12 | Cyberspace Operations and Electromagnetic Warfare |
+| FM 3-34 | Engineer Operations |
+| FM 4-0 | Sustainment Operations |
+| TC 3-21.5 | Drill and Ceremonies |
+| TC 3-21.76 | Ranger Handbook |
+| TC 3-22.9 | Rifle and Carbine |
+| TC 3-22.50 | Heavy Machine Gun, M2 Series |
+| TC 3-22.240 | Medium Machine Gun, M240 Series |
+| TC 3-22.249 | Light Machine Gun, M249 Series |
+
+**Scope note:** no joint (JP-series) publications are included, even
+where they'd be relevant background. Joint pubs are commonly
+CAC/DoD-network-gated, and this repo is public -- not worth the
+distribution risk even for publicly releasable content.
+
+### Adding more doctrine
+
+1. Pull a doctrine PDF from [armypubs.army.mil](https://armypubs.army.mil)
+   into a local `Army Pubs/` folder (sibling to this repo, not committed).
+2. Extract it:
+   ```bash
+   python scripts/pdf_to_text.py "../Army Pubs/YOUR_DOC.pdf" docs_raw/your_doc.txt
+   ```
+   If the output has `(cid:` garbage in it, the PDF has a broken font
+   encoding -- fall back to OCR instead:
+   ```bash
+   python scripts/ocr_pdf_to_text.py "../Army Pubs/YOUR_DOC.pdf" docs_raw/your_doc.txt
+   ```
+3. Add an entry to `scripts/extract_all.sh` and `scripts/ingest_all.sh`
+   (doc ID, title, and the real source URL), then re-run
+   `./scripts/ingest_all.sh`.
+
+The chunker splits on Army paragraph-header style (`3-4.` or the AR-series
+en-dash form `3–4.`) via the pattern in `chunker.py`. It's been hardened
+against the real-world extraction issues found while building this
+library: OCR misreading `.` as `,`, back-of-index cross-reference lines
+that look like headers, and long unheadered stretches (tables/appendices)
+that would otherwise balloon into oversized chunks.
 
 ## Design principles
 
@@ -101,19 +156,22 @@ different doctrine documents break its current narrow assumption.
   output are verbatim doctrine vs. its own synthesis.
 - **Fully offline.** No cloud API calls anywhere in the pipeline --
   embeddings and generation both run locally via Ollama.
+- **Extraction failures fail loud, not silent.** Chunking and ingestion
+  guard against duplicate IDs, oversized chunks, and unrecognized
+  section-header formats rather than silently dropping or corrupting
+  content.
 
 ## Status
 
-Core pipeline (chunk -> embed -> store -> retrieve -> generate) is built
-and verified end-to-end against real Ollama models. CLI and web GUI both
-working. Currently ingested: one short AR 670-1 excerpt (`docs_raw/sample.txt`)
--- broader doctrine coverage is next.
+Core pipeline (extract -> chunk -> embed -> store -> retrieve -> generate)
+is built and verified end-to-end against real Ollama models, with all 22
+doctrine documents ingested and retrieval confirmed across the full set.
+CLI and web GUI both working.
 
 ## Next steps
 
-- Ingest a real, broader set of doctrine documents
-- Section-aware PDF extraction (replace manual copy-paste)
-- Widen `SECTION_HEADER_RE` as real docs break its current narrow assumption
+- Port to Raspberry Pi 5 (`poppler-utils` needed for `pdftotext`; Ollama
+  models will need to fit Pi RAM/storage)
 - `systemd` service for Pi deployment (auto-start on boot)
 - Scenario-based training mode
 - Read-only "document library" browsing view (separate from Q&A)
