@@ -5,10 +5,10 @@
 Ask a question, it retrieves the relevant doctrine excerpts (tagged with
 document, section, source URL, and pull date), then a locally-run LLM
 comments on them in a senior-mentor persona. Retrieved doctrine and AI
-commentary are kept structurally separate in the output -- the *code*
+commentary are kept structurally separate in the output: the *code*
 guarantees this split, not a prompt instruction the model could ignore.
 
-Runs fully offline via [Ollama](https://ollama.com) -- no cloud API, no
+Runs fully offline via [Ollama](https://ollama.com): no cloud API, no
 network dependency once set up. Built to eventually run on a Raspberry
 Pi 5; currently developed and tested on macOS.
 
@@ -39,8 +39,8 @@ Army Pubs/*.pdf --> pdf_to_text.py / ocr_pdf_to_text.py --> docs_raw/*.txt
                                             (terminal CLI)              (local web GUI, Flask)
 ```
 
-Both the CLI and the web GUI are thin callers of the same `mentor.ask()`
--- neither has its own copy of the retrieval/generation logic.
+Both the CLI and the web GUI are thin callers of the same `mentor.ask()`;
+neither has its own copy of the retrieval/generation logic.
 
 ## Setup
 
@@ -56,7 +56,7 @@ ollama pull nomic-embed-text     # embedding model
 ollama pull llama3.2:3b          # generation model
 ```
 
-The doctrine text is already committed under `docs_raw/` -- ingest it
+The doctrine text is already committed under `docs_raw/`; ingest it
 once (see below) and you're ready to ask questions.
 
 ## Usage
@@ -67,7 +67,7 @@ once (see below) and you're ready to ask questions.
 ./run.sh
 ```
 
-Opens `http://localhost:5000` automatically -- a two-pane chat interface,
+Opens `http://localhost:5000` automatically: a two-pane chat interface,
 retrieved doctrine on one side, mentor commentary on the other, fully
 offline.
 
@@ -116,7 +116,7 @@ Army-wide context. All public release, unclassified, sourced from
 
 **Scope note:** no joint (JP-series) publications are included, even
 where they'd be relevant background. Joint pubs are commonly
-CAC/DoD-network-gated, and this repo is public -- not worth the
+CAC/DoD-network-gated, and this repo is public; not worth the
 distribution risk even for publicly releasable content.
 
 ### Adding more doctrine
@@ -128,7 +128,7 @@ distribution risk even for publicly releasable content.
    python scripts/pdf_to_text.py "../Army Pubs/YOUR_DOC.pdf" docs_raw/your_doc.txt
    ```
    If the output has `(cid:` garbage in it, the PDF has a broken font
-   encoding -- fall back to OCR instead:
+   encoding: fall back to OCR instead:
    ```bash
    python scripts/ocr_pdf_to_text.py "../Army Pubs/YOUR_DOC.pdf" docs_raw/your_doc.txt
    ```
@@ -148,13 +148,13 @@ that would otherwise balloon into oversized chunks.
 - **Retrieval is ground truth, generation is commentary.** The mentor
   persona (`MENTOR_SYSTEM_PROMPT` in `mentor.py`) is explicitly
   instructed to never contradict retrieved doctrine, never invent a
-  citation, and say so plainly when nothing relevant was retrieved --
+  citation, and say so plainly when nothing relevant was retrieved;
   rather than fall back on the model's own general knowledge.
 - **Structural, not instructional, separation.** `format_retrieved_block()`
   renders retrieved excerpts by deterministic code before the LLM ever
   runs. The model is never trusted to self-report which parts of its
   output are verbatim doctrine vs. its own synthesis.
-- **Fully offline.** No cloud API calls anywhere in the pipeline --
+- **Fully offline.** No cloud API calls anywhere in the pipeline:
   embeddings and generation both run locally via Ollama.
 - **Extraction failures fail loud, not silent.** Chunking and ingestion
   guard against duplicate IDs, oversized chunks, and unrecognized
